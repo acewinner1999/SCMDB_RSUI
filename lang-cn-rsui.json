@@ -2,15 +2,15 @@
   "version": "4.7.1-live.11592622",
   "sourceLanguage": "en",
   "targetLanguage": "zh-cn-rsui",
-  "keyCount": 3498,
+  "keyCount": 3603,
   "stats": {
-    "total": 3498,
-    "translated": 3348,
+    "total": 3603,
+    "translated": 3453,
     "missing": 1,
     "noLocKey": 80,
     "placeholderFallback": 69,
     "lengthFallback": 0,
-    "mismatch": 175,
+    "mismatch": 176,
     "missingKeys": [
       "UDM_LocalDelivery_desc"
     ],
@@ -50,6 +50,7 @@
       "Covalex_HaulCargo_AToB_Stanton_Interstellar",
       "Covalex_HaulCargo_AToB_desc_01",
       "Covalex_HaulCargo_AToB_title",
+      "Covalex_HaulCargo_AtoB_desc_DeliverAll",
       "Covalex_HaulCargo_AtoB_desc_FromLevski",
       "Covalex_HaulCargo_AtoB_desc_FromRuinStation",
       "Covalex_HaulCargo_AtoB_desc_ProcessedFood_Stanton2",
@@ -3035,7 +3036,7 @@
     },
     "headhunters_ChainElimAll_1C_AttackCFP_E_desc_001": {
       "en": "Been getting word that CFP security have been getting a little more aggressive and started pushing people out of the homes they've built out of the scrap in the system and they want payback, so they came to us.\\n\\nHead out to [LOCATION] and clear out the CFP there. Should be pretty cut and dry with a nice payday.\\n\\nStows out.",
-      "tr": "听说繁荣公民的安保变得更加激进，开始把人们从他们用废料建造的家中赶出去，他们想要报复，所以找上了我们。\\n\\nH前往 [LOCATION] 清理那里的繁荣公民，这应该很简单，而且能赚到一笔不错的报酬。\\n\\n- 斯托斯通讯完毕。"
+      "tr": "听说繁荣公民的安保变得更加激进，开始把人们从他们用废料建造的家中赶出去，他们想要报复，所以找上了我们。\\n\\n前往 [LOCATION] 清理那里的繁荣公民，这应该很简单，而且能赚到一笔不错的报酬。\\n\\n- 斯托斯通讯完毕。"
     },
     "vaughn_assassination_description_VE": {
       "en": "I have a new assignment for you.\\n\\nDispatch [TARGET]. You should be able to find them at [LOCATION]. \\n\\nI do not expect them to put up much of a struggle. At least not a formidable one.\\n\\nSincerely,\\nVaughn",
@@ -4517,6 +4518,10 @@
       "en": "Hiya, \\n\\nLooking for a hauler willing to make a run to Ruin Station. Know hauls to Pyro can give some people pause, but this is one we do regularly to help supply the station. I’ve also confirmed that everything on the cargo manifest is above board. \\n\\nIf you’re interested, the cargo is ready for pick up at <EM4>[LOCATION]</EM4>.  Make sure you bring a <EM4>handheld tractor beam</EM4> and a ship that can hold <EM4>24 SCU cargo containers</EM4> otherwise it might be a little rough.\\n\\nThanks in advance for ensuring prompt service,\\n\\nElla Tieno \\nJr. Logistics Coordinator \\nCovalex Shipping   \\n'Anything you need, anywhere you need it.' \\n\\nCovalex Shipping is a limited liability corporation. To encourage timely deliveries and prevent fraud on cargo hauls, Covalex Shipping will set a delivery time limit and upon expiration, any undelivered cargo will be considered stolen and treated as such. Total payment will be prorated according to the percentage of cargo successfully delivered.",
       "tr": "嗨呀，\\n\\n找个运输人员愿意跑一趟废墟空间站。我知道运到派罗的活儿会让有些人犹豫，不过这是我们经常做的任务，主要是给站点供应物资。我也确认过了，货单上的东西全都合法。\\n\\n如果你感兴趣的话，货物已经在 <EM4>[LOCATION]</EM4> 准备好装载了。记得带上 <EM4>手持式牵引光束</EM4> 和一艘能装得下 <EM4>[MAX_SCU] 尺寸货物集装箱</EM4>的飞船，不然可能会有点麻烦。\\n[SIGN_OFF]\\n\\n艾拉·蒂埃诺\\n初级物流协调员\\n科瓦莱什货运\\n“尽你所需，达你所在。”\\n\\n\\n科瓦莱什货运是一家有限责任公司。为了促进及时交付并防止货运欺诈，科瓦莱什货运会设定一个交货期限，一旦超过这个期限，任何未交付的货物都会被视为被盗并按盗窃处理。总付款会根据成功交付的货物百分比按比例支付。"
     },
+    "Covalex_HaulCargo_AtoB_desc_DeliverAll": {
+      "en": "Hiya, \\n\\nHere’s the deal, I need someone good for a special run. We’ve got an important client that’s threatening to take their business elsewhere, because their deliveries are consistently missing cargo. They’re demanding that 100% of the cargo be delivered on this run, or they won’t pay. Since this was before my time and my supervisor wants to show that it won’t happen again, they agreed with this. Anyway, I think you might be a good fit. \\n\\nIf you’re willing to take that risk too, here are all the pertinent details. The cargo can be collected from <EM4>[LOCATION]</EM4> and delivered to <EM4>[DESTINATION]</EM4>. Looks like the largest cargo container you’ll need to handle is <EM4>24 SCU</EM4>, so be sure to bring a ship big enough and a <EM4>handheld tractor beam</EM4> to help you move those containers around.  \\n \\nThanks in advance for ensuring prompt service, \\n\\nElla Tieno \\nJr. Logistics Coordinator \\nCovalex Shipping   \\n'Anything you need, anywhere you need it.'\\n\\nCovalex Shipping is a limited liability corporation. To encourage timely deliveries and prevent fraud on cargo hauls, Covalex Shipping will set a delivery time limit and upon expiration, any undelivered cargo will be considered stolen and treated as such. Total payment will be prorated according to the percentage of cargo successfully delivered.",
+      "tr": "嗨呀，\\n\\n是这样的，我需要找个靠谱的人来搞一个特殊任务。我们有个重要客户，说他们的货物总是在运送过程中丢东西，现在很不满意，扬言要把生意转到别的地方去。他们这次提了个要求，这一单必须把货物 100% 完整地送到，要不然就不付钱。这事儿发生在我来之前，我的主管想证明以后不会再出这种情况，所以就答应了客户的条件。不管怎样，我觉得你可能是干这活儿的好手。\\n\\n如果你愿意冒这个险的话，这些就是全部的任务细节。货物可以从 <EM4>[LOCATION]</EM4> 这个地方取，然后送到 <EM4>[DESTINATION]</EM4>。看起来你需要处理的最大货物集装箱是 <EM4>[MAX_SCU]</EM4> 尺寸的，所以一定要带一艘足够大的飞船，还得配备一把<EM4>手持式牵引光束</EM4>来帮你搬运那些集装箱。\\n\\n[SIGN_OFF]\\n\\n艾拉·蒂埃诺\\n初级物流协调员\\n科瓦莱什货运\\n“尽你所需，达你所在。”\\n\\n\\n科瓦莱什货运是一家有限责任公司。为了促进及时交付并防止货运欺诈，科瓦莱什货运会设定一个交货期限，一旦超过这个期限，任何未交付的货物都会被视为被盗并按盗窃处理。总付款会根据成功交付的货物百分比按比例支付。"
+    },
     "Covalex_HaulCargo_AtoB_desc_FromRuinStation": {
       "en": "Hey, it’s El. \\n\\nGot a client at <EM4>[LOCATION]</EM4>, who needs their cargo picked up from Ruin Station. They’ve been waiting there a while and are starting to get a bit impatient. Any chance you could handle this for us? \\n\\nYou’ll need a ship that can fit <EM4>24 SCU cargo containers</EM4> and a <EM4>handheld tractor beam</EM4> to be able to move them. \\n\\nThanks in advance for ensuring prompt service,\\n\\nElla Tieno \\nJr. Logistics Coordinator \\nCovalex Shipping   \\n'Anything you need, anywhere you need it.' \\n\\nCovalex Shipping is a limited liability corporation. To encourage timely deliveries and prevent fraud on cargo hauls, Covalex Shipping will set a delivery time limit and upon expiration, any undelivered cargo will be considered stolen and treated as such. Total payment will be prorated according to the percentage of cargo successfully delivered.",
       "tr": "嘿，是我，艾尔。\\n\\n<EM4>[LOCATION]</EM4> 这边有个客户，他们的货物需要从废墟空间站取过来。他们在那儿已经等了一段时间了，现在有点不耐烦了。你能帮我们搞定这个吗？\\n\\n你需要一艘能装 <EM4>[MAX_SCU] 货物集装箱</EM4>的飞船，还要配一把 <EM4>手持式牵引光束</EM4> 才能搬运那些集装箱。\\n\\n[SIGN_OFF]\\n\\n艾拉·蒂埃诺\\n初级物流协调员\\n科瓦莱什货运\\n“尽你所需，达你所在。”\\n\\n\\n科瓦莱什货运是一家有限责任公司。为了促进及时交付并防止货运欺诈，科瓦莱什货运会设定一个交货期限，一旦超过这个期限，任何未交付的货物都会被视为被盗并按盗窃处理。总付款会根据成功交付的货物百分比按比例支付。"
@@ -5961,6 +5966,102 @@
       "en": "Ita",
       "tr": "依塔 (Ita)"
     },
+    "Stanton2": {
+      "en": "Crusader",
+      "tr": "十字军 (Crusader)"
+    },
+    "Stanton2_L1": {
+      "en": "CRU L1",
+      "tr": "十 L1"
+    },
+    "Stanton2_L4": {
+      "en": "CRU L4",
+      "tr": "十 L4"
+    },
+    "Stanton2_L5": {
+      "en": "CRU L5",
+      "tr": "十 L5"
+    },
+    "Stanton2a": {
+      "en": "Cellin",
+      "tr": "赛琳 (Cellin)"
+    },
+    "Stanton2b": {
+      "en": "Daymar",
+      "tr": "戴玛尔 (Daymar)"
+    },
+    "Stanton2c": {
+      "en": "Yela",
+      "tr": "耶拉 (Yela)"
+    },
+    "Stanton3": {
+      "en": "ArcCorp",
+      "tr": "弧光星 (ArcCorp)"
+    },
+    "Stanton3_L1": {
+      "en": "ARC L1",
+      "tr": "弧 L1"
+    },
+    "Stanton3_L2": {
+      "en": "ARC L2",
+      "tr": "弧 L2"
+    },
+    "Stanton3_L3": {
+      "en": "ARC L3",
+      "tr": "弧 L3"
+    },
+    "Stanton3_L4": {
+      "en": "ARC L4",
+      "tr": "弧 L4"
+    },
+    "Stanton3_L5": {
+      "en": "ARC L5",
+      "tr": "弧 L5"
+    },
+    "Stanton3a": {
+      "en": "Lyria",
+      "tr": "莉瑞雅 (Lyria)"
+    },
+    "Stanton3b": {
+      "en": "Wala",
+      "tr": "瓦菈 (Wala)"
+    },
+    "Stanton4": {
+      "en": "microTech",
+      "tr": "微科星 (microTech)"
+    },
+    "Stanton4_L1": {
+      "en": "MIC L1",
+      "tr": "微 L1"
+    },
+    "Stanton4_L2": {
+      "en": "MIC L2",
+      "tr": "微 L2"
+    },
+    "Stanton4_L3": {
+      "en": "MIC L3",
+      "tr": "微 L3"
+    },
+    "Stanton4_L4": {
+      "en": "MIC L4",
+      "tr": "微 L4"
+    },
+    "Stanton4_L5": {
+      "en": "MIC L5",
+      "tr": "微 L5"
+    },
+    "Stanton4a": {
+      "en": "Calliope",
+      "tr": "卡利俄佩 (Calliope)"
+    },
+    "Stanton4b": {
+      "en": "Clio",
+      "tr": "克利俄 (Clio)"
+    },
+    "Stanton4c": {
+      "en": "Euterpe",
+      "tr": "欧忒耳佩 (Euterpe)"
+    },
     "Stanton1a_HurDynMining_002": {
       "en": "HDMS-Lathan",
       "tr": "HDMS-莱森站 (Lathan)"
@@ -6125,10 +6226,6 @@
       "en": "Megumi Refueling Habs",
       "tr": "恩惠加油站居住区"
     },
-    "Stanton2": {
-      "en": "Crusader",
-      "tr": "十字军 (Crusader)"
-    },
     "Collector_Station_02_Name": {
       "en": "Wikelo Emporium Selo Station",
       "tr": "维科洛百货 赛洛空间站\\nWikelo Emporium Selo Station"
@@ -6136,10 +6233,6 @@
     "Collector_Station_03_Name": {
       "en": "Wikelo Emporium Kinga Station",
       "tr": "维科洛百货 金伽空间站\\nWikelo Emporium Kinga Station"
-    },
-    "Stanton4": {
-      "en": "microTech",
-      "tr": "微科星 (microTech)"
     },
     "Collector_Station_01_Name": {
       "en": "Wikelo Emporium Dasi Station",
@@ -6445,38 +6538,6 @@
       "en": "Cluster MNK-833",
       "tr": "小行星群 MNK-833"
     },
-    "Stanton4_L1": {
-      "en": "MIC L1",
-      "tr": "微 L1"
-    },
-    "Stanton4_L2": {
-      "en": "MIC L2",
-      "tr": "微 L2"
-    },
-    "Stanton4_L3": {
-      "en": "MIC L3",
-      "tr": "微 L3"
-    },
-    "Stanton4_L4": {
-      "en": "MIC L4",
-      "tr": "微 L4"
-    },
-    "Stanton4_L5": {
-      "en": "MIC L5",
-      "tr": "微 L5"
-    },
-    "Stanton4a": {
-      "en": "Calliope",
-      "tr": "卡利俄佩 (Calliope)"
-    },
-    "Stanton4b": {
-      "en": "Clio",
-      "tr": "克利俄 (Clio)"
-    },
-    "Stanton4c": {
-      "en": "Euterpe",
-      "tr": "欧忒耳佩 (Euterpe)"
-    },
     "Nyx": {
       "en": "Nyx",
       "tr": "尼克斯"
@@ -6517,17 +6578,9 @@
       "en": "the Rayari lab on Cellin",
       "tr": "赛琳上的拉亚利实验室"
     },
-    "Stanton2a": {
-      "en": "Cellin",
-      "tr": "赛琳 (Cellin)"
-    },
     "Stanton2c_Rayari_001": {
       "en": "Deakins Research Outpost",
       "tr": "迪金斯科研前哨站 (Deakins Research Outpost)"
-    },
-    "Stanton2c": {
-      "en": "Yela",
-      "tr": "耶拉 (Yela)"
     },
     "Stanton4b_Rayari_001": {
       "en": "Rayari McGrath Research Outpost",
@@ -6536,10 +6589,6 @@
     "StantonSystem": {
       "en": "Stanton System",
       "tr": "斯坦顿星系"
-    },
-    "Stanton3": {
-      "en": "ArcCorp",
-      "tr": "弧光星 (ArcCorp)"
     },
     "Delamar_Levski": {
       "en": "Levski",
@@ -7044,18 +7093,6 @@
     "mission_location_pyro_016": {
       "en": "Yang's Place",
       "tr": "杨家庄 (Yang's Place)"
-    },
-    "Stanton2b": {
-      "en": "Daymar",
-      "tr": "戴玛尔 (Daymar)"
-    },
-    "Stanton3a": {
-      "en": "Lyria",
-      "tr": "莉瑞雅 (Lyria)"
-    },
-    "Stanton3b": {
-      "en": "Wala",
-      "tr": "瓦菈 (Wala)"
     },
     "mission_location_stanton_1103e": {
       "en": "Starfarer wreck site",
@@ -8249,41 +8286,13 @@
       "en": "the Calliope wreck site",
       "tr": "卡利俄佩上的残骸地点"
     },
-    "Stanton2_L1": {
-      "en": "CRU L1",
-      "tr": "十 L1"
-    },
     "Stanton2_L2": {
       "en": "CRU L2",
       "tr": "十 L2"
     },
-    "Stanton3_L1": {
-      "en": "ARC L1",
-      "tr": "弧 L1"
-    },
-    "Stanton3_L2": {
-      "en": "ARC L2",
-      "tr": "弧 L2"
-    },
     "mission_location_pyro_061_03": {
       "en": "Maintenance Area-03",
       "tr": "维修区-03"
-    },
-    "Stanton2_L4": {
-      "en": "CRU L4",
-      "tr": "十 L4"
-    },
-    "Stanton2_L5": {
-      "en": "CRU L5",
-      "tr": "十 L5"
-    },
-    "Stanton3_L3": {
-      "en": "ARC L3",
-      "tr": "弧 L3"
-    },
-    "Stanton3_L4": {
-      "en": "ARC L4",
-      "tr": "弧 L4"
     },
     "mission_location_stanton_873": {
       "en": "Lamina PAF-I",
@@ -8325,6 +8334,46 @@
       "en": "PYAM-FARSTAT-1-3 Clinic",
       "tr": "焰联-远程站-1-3 诊所"
     },
+    "RR_P3_L5": {
+      "en": "PYAM-FARSTAT-3-5",
+      "tr": "焰联-远程站-3-5 (PYAM-FARSTAT-3-5)"
+    },
+    "mission_location_pyro_096": {
+      "en": "PYAM-FARSTAT-3-5 Clinic",
+      "tr": "焰联-远程站-3-5 诊所"
+    },
+    "RR_P5_L1": {
+      "en": "PYAM-FARSTAT-5-1",
+      "tr": "焰联-远程站-5-1 (PYAM-FARSTAT-5-1)"
+    },
+    "mission_location_pyro_097": {
+      "en": "PYAM-FARSTAT-5-1 Clinic",
+      "tr": "焰联-远程站-5-1 诊所"
+    },
+    "RR_P5_L4_Clinic": {
+      "en": "Rod's Clinic",
+      "tr": "路德诊所"
+    },
+    "RR_P6_L2": {
+      "en": "PYAM-FARSTAT-6-2",
+      "tr": "焰联-远程站-6-2 (PYAM-FARSTAT-6-2)"
+    },
+    "mission_location_pyro_102": {
+      "en": "PYAM-FARSTAT-6-2 Clinic",
+      "tr": "焰联-远程站-6-2 诊所"
+    },
+    "RR_P6_L4_Clinic": {
+      "en": "Dudley Clinic",
+      "tr": "达德利诊所"
+    },
+    "RR_P6_L5_Clinic": {
+      "en": "Megumi Clinic",
+      "tr": "恩惠诊所"
+    },
+    "RR_P5_L3": {
+      "en": "PYAM-FARSTAT-5-3",
+      "tr": "焰联-远程站-5-3 (PYAM-FARSTAT-5-3)"
+    },
     "mission_location_pyro_049": {
       "en": "Pyro II Cave",
       "tr": "派罗 II 洞穴"
@@ -8356,38 +8405,6 @@
     "mission_location_pyro_048": {
       "en": "Pyro I Cave",
       "tr": "派罗 I 洞穴"
-    },
-    "Stanton3_L5": {
-      "en": "ARC L5",
-      "tr": "弧 L5"
-    },
-    "RR_P3_L5": {
-      "en": "PYAM-FARSTAT-3-5",
-      "tr": "焰联-远程站-3-5 (PYAM-FARSTAT-3-5)"
-    },
-    "mission_location_pyro_096": {
-      "en": "PYAM-FARSTAT-3-5 Clinic",
-      "tr": "焰联-远程站-3-5 诊所"
-    },
-    "RR_P6_L2": {
-      "en": "PYAM-FARSTAT-6-2",
-      "tr": "焰联-远程站-6-2 (PYAM-FARSTAT-6-2)"
-    },
-    "mission_location_pyro_102": {
-      "en": "PYAM-FARSTAT-6-2 Clinic",
-      "tr": "焰联-远程站-6-2 诊所"
-    },
-    "RR_P6_L4_Clinic": {
-      "en": "Dudley Clinic",
-      "tr": "达德利诊所"
-    },
-    "RR_P6_L5_Clinic": {
-      "en": "Megumi Clinic",
-      "tr": "恩惠诊所"
-    },
-    "RR_P5_L3": {
-      "en": "PYAM-FARSTAT-5-3",
-      "tr": "焰联-远程站-5-3 (PYAM-FARSTAT-5-3)"
     },
     "Stanton4_Shubin_004": {
       "en": "Shubin Mining Facility SM0-10",
@@ -9947,7 +9964,7 @@
     },
     "item_Nameklwe_pistol_energy_01": {
       "en": "Arclight Pistol",
-      "tr": "弧光能量手枪\\nArclight Pistol"
+      "tr": "弧光 手枪\\nArclight Pistol"
     },
     "item_Nameklwe_sniper_energy_01_white02": {
       "en": "Arrowhead \"Boneyard\" Sniper Rifle",
@@ -11667,31 +11684,31 @@
     },
     "item_Name_slaver_armor_heavy_arms_01_01_9tails01": {
       "en": "Defiance Arms (Modified)",
-      "tr": "蔑视臂甲（改）\\nDefiance Arms (Modified)"
+      "tr": "蔑视 臂甲（改）\\nDefiance Arms (Modified)"
     },
     "item_Name_slaver_armor_heavy_arms_01_01_11": {
       "en": "Defiance Arms Charcoal",
-      "tr": "蔑视臂甲 炭灰\\nDefiance Arms Charcoal"
+      "tr": "蔑视 臂甲 炭灰\\nDefiance Arms Charcoal"
     },
     "item_Name_slaver_armor_heavy_arms_01_01_15": {
       "en": "Defiance Arms Desert",
-      "tr": "蔑视臂甲 沙漠\\nDefiance Arms Desert"
+      "tr": "蔑视 臂甲 沙漠\\nDefiance Arms Desert"
     },
     "item_Name_slaver_armor_heavy_arms_01_01_13": {
       "en": "Defiance Arms Firestarter",
-      "tr": "蔑视臂甲 纵火者\\nDefiance Arms Firestarter"
+      "tr": "蔑视 臂甲 纵火者\\nDefiance Arms Firestarter"
     },
     "item_Name_slaver_armor_heavy_arms_01_01_10": {
       "en": "Defiance Arms Hailstorm",
-      "tr": "蔑视臂甲 雹暴\\nDefiance Arms Hailstorm"
+      "tr": "蔑视 臂甲 雹暴\\nDefiance Arms Hailstorm"
     },
     "item_Name_slaver_armor_heavy_arms_01_01_03": {
       "en": "Defiance Arms Sunchaser",
-      "tr": "蔑视臂甲 逐日者\\nDefiance Arms Sunchaser"
+      "tr": "蔑视 臂甲 逐日者\\nDefiance Arms Sunchaser"
     },
     "item_Name_slaver_armor_heavy_arms_01_01_01": {
       "en": "Defiance Arms Tactical",
-      "tr": "蔑视臂甲 战术\\nDefiance Arms Tactical"
+      "tr": "蔑视 臂甲 战术\\nDefiance Arms Tactical"
     },
     "item_Name_slaver_armor_heavy_core_01_01_9tails01": {
       "en": "Defiance Core (Modified)",
@@ -12415,7 +12432,7 @@
     },
     "item_Name_kap_combat_heavy_arms_02_07_01": {
       "en": "Monde Arms Delta Camo",
-      "tr": "蒙德 臂甲 三角迷彩\\nMonde Arms Delta Camo"
+      "tr": "蒙德 臂甲 德尔塔迷彩\\nMonde Arms Delta Camo"
     },
     "item_Name_kap_combat_heavy_arms_02_04_01": {
       "en": "Monde Arms Hemlock Camo",
@@ -12439,7 +12456,7 @@
     },
     "item_Name_kap_combat_heavy_core_02_07_01": {
       "en": "Monde Core Delta Camo",
-      "tr": "蒙德 胸甲 三角迷彩\\nMonde Core Delta Camo"
+      "tr": "蒙德 胸甲 德尔塔迷彩\\nMonde Core Delta Camo"
     },
     "item_Name_kap_combat_heavy_core_02_04_01": {
       "en": "Monde Core Hemlock Camo",
@@ -12463,7 +12480,7 @@
     },
     "item_Name_kap_combat_heavy_helmet_02_07_01": {
       "en": "Monde Helmet Delta Camo",
-      "tr": "蒙德 头盔 三角迷彩\\nMonde Helmet Delta Camo"
+      "tr": "蒙德 头盔 德尔塔迷彩\\nMonde Helmet Delta Camo"
     },
     "item_Name_kap_combat_heavy_helmet_02_08_01": {
       "en": "Monde Helmet Hiro",
@@ -12483,7 +12500,7 @@
     },
     "item_Name_kap_combat_heavy_legs_02_07_01": {
       "en": "Monde Legs Delta Camo",
-      "tr": "蒙德 腿甲 三角迷彩\\nMonde Legs Delta Camo"
+      "tr": "蒙德 腿甲 德尔塔迷彩\\nMonde Legs Delta Camo"
     },
     "item_Name_kap_combat_heavy_legs_02_04_01": {
       "en": "Monde Legs Hemlock Camo",
@@ -14184,6 +14201,410 @@
     "items_commodities_tungsten_ore": {
       "en": "Tungsten (Ore)",
       "tr": "钨矿石"
+    },
+    "RepScope_Contractor_Rank0": {
+      "en": "Applicant",
+      "tr": "申请人"
+    },
+    "items_commodities_carinite_pure": {
+      "en": "Carinite (Pure)",
+      "tr": "纯净科力晶Carinite (Pure)"
+    },
+    "items_commodities_saldynium_ore": {
+      "en": "Saldynium (Ore)",
+      "tr": "烁迪银矿石"
+    },
+    "items_commodities_kopionhorn_tundra": {
+      "en": "Tundra Kopion Horn",
+      "tr": "苔原寇骈犬角Tundra Kopion Horn"
+    },
+    "items_commodities_jaclium_ore": {
+      "en": "Jaclium (Ore)",
+      "tr": "杰金矿石"
+    },
+    "items_commodities_valakkarfang_juvenile_irradiated": {
+      "en": "Irradiated Valakkar Fang (Juvenile)",
+      "tr": "受辐射的瓦拉卡獠牙 (幼年期)\\nIrradiated Valakkar Fang (Juvenile)"
+    },
+    "items_commodities_valakkarfang_adult_irradiated": {
+      "en": "Irradiated Valakkar Fang (Adult)",
+      "tr": "受辐射的瓦拉卡獠牙 (成年期)\\nIrradiated Valakkar Fang (Adult)"
+    },
+    "items_commodities_yormandi_eye": {
+      "en": "Yormandi Eye",
+      "tr": "约曼迪之眼\\nYormandi Eye"
+    },
+    "harvestable_Armillaria": {
+      "en": "Bluemoon Fungus",
+      "tr": "蓝月菌Bluemoon Fungus"
+    },
+    "items_commodities_quantainium": {
+      "en": "Quantainium",
+      "tr": "量子矿物Quantainium"
+    },
+    "items_commodities_valakkarfang_apex_irradiated": {
+      "en": "Irradiated Valakkar Fang (Apex)",
+      "tr": "受辐射的瓦拉卡獠牙 (巅峰期)\\nIrradiated Valakkar Fang (Apex)"
+    },
+    "items_commodities_copper": {
+      "en": "Copper",
+      "tr": "铜Copper"
+    },
+    "items_commodities_kopionhorn_irradiated": {
+      "en": "Irradiated Kopion Horn",
+      "tr": "受辐射的寇骈犬角Irradiated Kopion Horn"
+    },
+    "items_commodities_savrilium": {
+      "en": "Savrilium",
+      "tr": "萨维里金属Savrilium"
+    },
+    "items_commodities_rantadung": {
+      "en": "Ranta Dung",
+      "tr": "兰塔有机粪便Ranta Dung"
+    },
+    "items_commodities_prota": {
+      "en": "Prota",
+      "tr": "普罗塔菌Prota"
+    },
+    "items_commodities_revenantpod": {
+      "en": "Revenant Pod",
+      "tr": "亡魂果荚Revenant Pod"
+    },
+    "items_commodities_amioshiplague": {
+      "en": "Amioshi Plague",
+      "tr": "阿米什瘟疫Amioshi Plague"
+    },
+    "items_commodities_sunsetberry": {
+      "en": "Sunset Berries",
+      "tr": "日落浆果Sunset Berry\\nHEI:06 NDR:08 毒性"
+    },
+    "items_commodities_heartofthewoods": {
+      "en": "Heart of the Woods",
+      "tr": "“森林之心”Heart of the woods\\nNDR:31 毒性"
+    },
+    "items_commodities_kopionhorn_cave": {
+      "en": "Cave Kopion Horn",
+      "tr": "洞穴寇骈犬角Cave Kopion Horn"
+    },
+    "items_commodities_marokgem": {
+      "en": "Marok Gem",
+      "tr": "啼笑鸟胃石Marok Gem"
+    },
+    "items_commodities_valakkarfang_juvenile": {
+      "en": "Valakkar Fang (Juvenile)",
+      "tr": "瓦拉卡獠牙 (幼年期)\\nValakkar Fang (Juvenile)"
+    },
+    "items_commodities_medicalSupplies": {
+      "en": "Medical Supplies",
+      "tr": "医疗用品Medical Supplies"
+    },
+    "items_commodities_iodine": {
+      "en": "Iodine",
+      "tr": "碘Iodine"
+    },
+    "items_commodities_type_plasmaFuel": {
+      "en": "Hydrogen Fuel",
+      "tr": "氢燃料Hydrogen Fuel"
+    },
+    "items_commodities_scrap": {
+      "en": "Scrap",
+      "tr": "废料Scrap"
+    },
+    "items_commodities_cobalt": {
+      "en": "Cobalt",
+      "tr": "钴Cobalt"
+    },
+    "items_commodities_militarySupplies": {
+      "en": "Combat Supplies",
+      "tr": "战斗物资Combat Supplies"
+    },
+    "items_commodities_type_RMC": {
+      "en": "Recycled Material Composite",
+      "tr": "再生复合材料\\nRecycled Material Composite"
+    },
+    "items_commodities_laranite": {
+      "en": "Laranite",
+      "tr": "砬兰石Laranite"
+    },
+    "items_commodities_thermalfoam": {
+      "en": "ThermalFoam",
+      "tr": "热泡沫塑料ThermalFoam"
+    },
+    "items_commodities_freshFood": {
+      "en": "Fresh Food",
+      "tr": "新鲜食品Fresh Food"
+    },
+    "items_commodities_mercury": {
+      "en": "Mercury",
+      "tr": "汞Mercury"
+    },
+    "items_commodities_agricium": {
+      "en": "Agricium",
+      "tr": "艾格瑞金属Agricium"
+    },
+    "items_commodities_distilledSpirits": {
+      "en": "Distilled Spirits",
+      "tr": "蒸馏酒精Distilled Spirits"
+    },
+    "items_commodities_stims": {
+      "en": "Stims",
+      "tr": "斯酊姆烟草Stims"
+    },
+    "items_commodities_organimass": {
+      "en": "Organics",
+      "tr": "有机物Organics"
+    },
+    "items_commodities_iron": {
+      "en": "Iron",
+      "tr": "铁Iron"
+    },
+    "items_commodities_atlasium": {
+      "en": "Atlasium",
+      "tr": "巨神合金Atlasium"
+    },
+    "items_commodities_argon": {
+      "en": "Argon",
+      "tr": "氩气Argon"
+    },
+    "items_commodities_ammonia": {
+      "en": "Ammonia",
+      "tr": "氨Ammonia"
+    },
+    "items_commodities_ConstructionMaterials": {
+      "en": "Construction Materials",
+      "tr": "结构材料\\nConstruction Materials"
+    },
+    "items_commodities_goldenmedmon": {
+      "en": "Golden Medmon",
+      "tr": "黄金麦德蒙果Golden Medmon\\nHEI:19 NDR:39 精力充沛，保水"
+    },
+    "items_commodities_PartyFavors": {
+      "en": "Party Favors",
+      "tr": "聚会礼品Party Favors"
+    },
+    "items_commodities_Souvenirs": {
+      "en": "Souvenirs",
+      "tr": "纪念品Souvenirs"
+    },
+    "items_commodities_altruciatoxin_unprocessed": {
+      "en": "Revenant Tree Pollen",
+      "tr": "亡魂树花粉Revenant Tree Pollen"
+    },
+    "items_commodities_tritium": {
+      "en": "Tritium",
+      "tr": "氚Tritium"
+    },
+    "items_commodities_nitrogen": {
+      "en": "Nitrogen",
+      "tr": "氮Nitrogen"
+    },
+    "items_commodities_diamond": {
+      "en": "Diamond",
+      "tr": "钻石Diamond"
+    },
+    "items_commodities_gold": {
+      "en": "Gold",
+      "tr": "金Gold"
+    },
+    "items_commodities_aphorite": {
+      "en": "Aphorite",
+      "tr": "紫钠水晶Aphorite"
+    },
+    "items_commodities_potassium": {
+      "en": "Potassium",
+      "tr": "钾Potassium"
+    },
+    "items_commodities_slam": {
+      "en": "SLAM",
+      "tr": "“冠军Slam”"
+    },
+    "items_commodities_widow": {
+      "en": "WiDoW",
+      "tr": "“黑寡妇Widow”"
+    },
+    "items_commodities_etam": {
+      "en": "E'tam",
+      "tr": "艾坦药草E'tam"
+    },
+    "Salvage_Ship_Component_Shield_Generator_S1_Name": {
+      "en": "Shield Generator (S1)",
+      "tr": "护盾生成器 (S1)"
+    },
+    "Salvage_Ship_Component_Power_Plant_S1_Name": {
+      "en": "Power Plant (S1)",
+      "tr": "发电机 (S1)"
+    },
+    "Salvage_Ship_Component_Cooler_S1_Name": {
+      "en": "Cooler (S1)",
+      "tr": "冷却器 (S1)"
+    },
+    "Salvage_Ship_Component_Quantum_Drive_S1_Name": {
+      "en": "Quantum Drive (S1)",
+      "tr": "量子驱动器 (S1)"
+    },
+    "Salvage_Ship_Component_Ship_Weapon_S1_S2_Name": {
+      "en": "Ship Weapon (S1 or S2)",
+      "tr": "飞船武器 (S1 或 S2)"
+    },
+    "Salvage_Ship_Component_Ship_Mining_Laser_Name": {
+      "en": "Ship Mining Laser",
+      "tr": "飞船采矿激光"
+    },
+    "Salvage_Ship_Component_Ship_Salvage_Head_Name": {
+      "en": "Ship Salvage Head",
+      "tr": "飞船打捞头"
+    },
+    "items_commodities_ConstructionMaterialsPowder": {
+      "en": "Construction Rubble",
+      "tr": "结构碎料\\nConstruction Rubble"
+    },
+    "items_commodities_ConstructionMaterialsScraps": {
+      "en": "Construction Pieces",
+      "tr": "结构碎片\\nConstruction Pieces"
+    },
+    "items_commodities_ConstructionMaterialsChunks": {
+      "en": "Construction Salvage",
+      "tr": "结构残骸\\nConstruction Salvage"
+    },
+    "Salvage_Ship_Component_Ship_Weapon_S3_S4_Name": {
+      "en": "Ship Weapon (S3 or S4)",
+      "tr": "飞船武器 (S3 或 S4)"
+    },
+    "Salvage_Ship_Component_Ship_Missile_Name": {
+      "en": "Ship Missile",
+      "tr": "飞船导弹"
+    },
+    "Salvage_Ship_Component_Ship_Bomb_Name": {
+      "en": "Ship Bomb",
+      "tr": "飞船炸弹"
+    },
+    "Salvage_Ship_Component_Power_Plant_S2_Civ_G_Name": {
+      "en": "Power Plant, Civilian Grade (S2)",
+      "tr": "发电机，民用级 (S2)"
+    },
+    "Salvage_Ship_Component_Cooler_S2_Civ_G_Name": {
+      "en": "Cooler, Civilian Grade (S2)",
+      "tr": "冷却器，民用级 (S2)"
+    },
+    "Salvage_Ship_Component_Shield_Generator_S2_Civ_G_Name": {
+      "en": "Shield Generator, Civilian Grade (S2)",
+      "tr": "护盾生成器，民用级 (S2)"
+    },
+    "Salvage_Ship_Component_Power_Plant_S2_Mil_G_Name": {
+      "en": "Power Plant, Military Grade (S2)",
+      "tr": "发电机，军用级 (S2)"
+    },
+    "Salvage_Ship_Component_Cooler_S2_Mil_G_Name": {
+      "en": "Cooler, Military Grade (S2)",
+      "tr": "冷却器，军用级 (S2)"
+    },
+    "Salvage_Ship_Component_Shield_Generator_S2_Mil_G_Name": {
+      "en": "Shield Generator, Military Grade (S2)",
+      "tr": "护盾生成器，军用级 (S2)"
+    },
+    "Salvage_Ship_Component_Power_Plant_S2_Ind_G_Name": {
+      "en": "Power Plant, Industrial Grade (S2)",
+      "tr": "发电机，工业级 (S2)"
+    },
+    "Salvage_Ship_Component_Cooler_S2_Ind_G_Name": {
+      "en": "Cooler, Industrial Grade (S2)",
+      "tr": "冷却器，工业级 (S2)"
+    },
+    "Salvage_Ship_Component_Shield_Generator_S2_Ind_G_Name": {
+      "en": "Shield Generator, Industrial Grade (S2)",
+      "tr": "护盾生成器，工业级 (S2)"
+    },
+    "Salvage_Ship_Component_Quantum_Drive_S2_Name": {
+      "en": "Quantum Drive, Industrial (S2)",
+      "tr": "量子驱动器，工业 (S2)"
+    },
+    "Salvage_Ship_Component_Power_Plant_S2_Comp_G_Name": {
+      "en": "Power Plant, Competition Grade (S2)",
+      "tr": "发电机，竞速级 (S2)"
+    },
+    "Salvage_Ship_Component_Cooler_S2_Comp_G_Name": {
+      "en": "Cooler, Competition Grade (S2)",
+      "tr": "冷却器，竞速级 (S2)"
+    },
+    "Salvage_Ship_Component_Shield_Generator_S2_Comp_G_Name": {
+      "en": "Shield Generator, Competition Grade (S2)",
+      "tr": "护盾生成器，竞速级 (S2)"
+    },
+    "items_commodities_dolivine": {
+      "en": "Dolivine",
+      "tr": "暗橄榄石Dolivine"
+    },
+    "items_commodities_hadanite": {
+      "en": "Hadanite",
+      "tr": "哈丹水晶Hadanite"
+    },
+    "items_commodities_tin": {
+      "en": "Tin",
+      "tr": "锡Tin"
+    },
+    "items_commodities_beryl": {
+      "en": "Beryl",
+      "tr": "绿柱石Beryl"
+    },
+    "items_commodities_hephaestanite": {
+      "en": "Hephaestanite",
+      "tr": "火神石Hephaestanite"
+    },
+    "items_commodities_borase": {
+      "en": "Borase",
+      "tr": "波射石Borase"
+    },
+    "items_commodities_torite": {
+      "en": "Torite",
+      "tr": "托瑞特金属Torite"
+    },
+    "items_commodities_taranite": {
+      "en": "Taranite",
+      "tr": "塔兰导电石Taranite"
+    },
+    "items_commodities_bexalite": {
+      "en": "Bexalite",
+      "tr": "贝沙电气石Bexalite"
+    },
+    "items_commodities_lindinium": {
+      "en": "Lindinium",
+      "tr": "林登金Lindinium"
+    },
+    "items_commodities_stileron": {
+      "en": "Stileron",
+      "tr": "稀钛铁Stileron"
+    },
+    "items_commodities_riccite": {
+      "en": "Riccite",
+      "tr": "愈金Riccite"
+    },
+    "items_commodities_MoldTreatment": {
+      "en": "Molina Mold Treatment",
+      "tr": "莫利纳霉菌治疗用品\\nMolina Mold Treatment"
+    },
+    "items_commodities_MoldSamples": {
+      "en": "Molina Mold Samples",
+      "tr": "莫利纳霉菌样本\\nmolinaMolina Mold Samples"
+    },
+    "items_commodities_VentFilters": {
+      "en": "Molina Ventilation Filters",
+      "tr": "莫利纳通风过滤器\\nMolina Ventilation Filters"
+    },
+    "items_commodities_decaripod": {
+      "en": "Decari Pod",
+      "tr": "德卡利孢囊Decari Pod"
+    },
+    "harvestable_MolinaMold": {
+      "en": "Molina Mold",
+      "tr": "莫利纳霉菌"
+    },
+    "items_commodities_type_quantumFuel": {
+      "en": "Quantum Fuel",
+      "tr": "量子燃料Quantum Fuel"
+    },
+    "items_commodities_aluminum_ore": {
+      "en": "Aluminum (Ore)",
+      "tr": "铝矿石"
     }
   }
 }
