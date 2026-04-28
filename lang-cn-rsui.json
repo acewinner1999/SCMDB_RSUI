@@ -1,5 +1,5 @@
 {
-  "version": "4.7.1-live.11638371",
+  "version": "4.7.2-live.11715810",
   "sourceLanguage": "en",
   "targetLanguage": "zh-cn-rsui",
   "keyCount": 2542,
@@ -660,11 +660,11 @@
     },
     "headhunters_bombingrun_M_CFP_title_001": {
       "en": "Blow Up Citizens for Prosperity Fuel Reserves",
-      "tr": "炸掉繁荣公民的燃油储备\\n[猎头帮 - 轰炸 繁荣公民 MRT]"
+      "tr": "炸掉繁荣公民的燃料储备\\n[猎头帮 - 轰炸 繁荣公民 MRT]"
     },
     "headhunters_bombingrun_H_XT_title_001": {
       "en": "Blow Up XenoThreat Fuel Reserves",
-      "tr": "炸掉异种威胁的燃油储备\\n[猎头帮 - 轰炸 异种威胁 HRT]"
+      "tr": "炸掉异种威胁的燃料储备\\n[猎头帮 - 轰炸 异种威胁 HRT]"
     },
     "northrock_bounty_fps_title_001": {
       "en": "Bounty Assignment: [TARGET] (HRT)",
@@ -1044,7 +1044,7 @@
     },
     "headhunters_bombingrun_VH_XT_title_001": {
       "en": "Destroy XenoThreat Fuel Reserves",
-      "tr": "炸掉异种威胁的燃油储备\\n[猎头帮 - 轰炸 异种威胁 VHRT]"
+      "tr": "炸掉异种威胁的燃料储备\\n[猎头帮 - 轰炸 异种威胁 VHRT]"
     },
     "cfp_sabotage_servers_H_XT_title_001": {
       "en": "Destroy XenoThreat Logistic Data",
@@ -1132,7 +1132,7 @@
     },
     "northrock_bounty_prisoner_title_001": {
       "en": "Escapee Bounty Assignment: [TARGET]",
-      "tr": "逃犯赏金任务：[TARGET]"
+      "tr": "逃犯赏金任务：[TARGET]\\n[玩家赏金]"
     },
     "cfp_eliminateall_intro_title_001": {
       "en": "Establishing Security",
@@ -1984,7 +1984,7 @@
     },
     "northrock_bounty_prisoner_title_intro": {
       "en": "Pro Tem Escapee Bounty Contract",
-      "tr": "临时逃犯赏金任务"
+      "tr": "临时逃犯赏金任务\\n[玩家赏金]"
     },
     "northrock_bounty_PVP_title_first": {
       "en": "Pro Tem Suspect Apprehension",
@@ -2008,7 +2008,7 @@
     },
     "EckhartSecurity_Defend_M_Title_001": {
       "en": "Protect Location",
-      "tr": "保卫地点\\n[埃克哈特 - 保卫战点 MRT]"
+      "tr": "保卫地点\\n[埃克哈特 - 保卫站点 MRT]"
     },
     "Headhunters_DefendLocation_E_Title_001": {
       "en": "Protect Our Site",
@@ -2212,7 +2212,7 @@
     },
     "EckhartSecurity_Defend_H_Title_001": {
       "en": "Repel Raiders",
-      "tr": "击退袭击者\\n[埃克哈特 - 保卫战点 HRT]"
+      "tr": "击退袭击者\\n[埃克哈特 - 保卫站点 HRT]"
     },
     "HeadHunters_ShipAmbush_H_title_001": {
       "en": "Reprisal Attack",
@@ -2332,7 +2332,7 @@
     },
     "EckhartSecurity_Defend_E_Title_001": {
       "en": "Secure Site",
-      "tr": "确保站点安全\\n[埃克哈特 - 保卫战点 LRT]"
+      "tr": "确保站点安全\\n[埃克哈特 - 保卫站点 LRT]"
     },
     "EckhartSecurity_Mercenary_Intro_Title_001": {
       "en": "Security Contractor Evaluation",
@@ -3068,7 +3068,7 @@
     },
     "Vaughn_EliminateSpecific_FPS_Rockcracker_Maintenance_desc_001": {
       "en": "I've been having a hard time tracking this target down. They're part of a gang known as the Claw Salamanders who tend to be quite itinerate. However, it seems the group has been trying to get an old QV Breaker Station operational again and I think this just may be the chance to take out [TARGET] once and for all. \\n\\nStart your search at [LOCATION].  These stations can apparently be quiet cavernous at  times so it may take a bit of effort to locate the target once you're on site.\\n\\nHowever, I have all the confidence in your abilities,\\nVaughn",
-      "tr": "这目标真的难盯。他属于那帮神出鬼没的爪蜥帮，平时东躲西藏、行踪不定。不过最近听说他们正拼命想重启一座老掉牙的 QV 碎岩站。这倒是个千载难逢的机会，说不定这次真能一劳永逸地干掉[TARGET]。\\n\\n先从 [LOCATION] 开始搜起吧。这种前哨站空荡荡的，像个大山洞似的。你一进去怕是得花点力气才能把人揪出来。\\n\\n但是，我对你有十足的信心，\\n沃恩"
+      "tr": "这目标真的难盯。他属于那帮神出鬼没的爪蜥帮，平时东躲西藏、行踪不定。不过最近听说他们正拼命想重启一座老掉牙的 QV 碎岩站。这倒是个千载难逢的机会，说不定这次真能一劳永逸地干掉 [TARGET]。\\n\\n先从 [LOCATION] 开始搜起吧。这种前哨站空荡荡的，像个大山洞似的。你一进去怕是得花点力气才能把人揪出来。\\n\\n但是，我对你有十足的信心，\\n沃恩"
     },
     "Vaughn_EliminateSpecific_FPS_Rockcracker_Warehouse_desc_001": {
       "en": "There is a member of the Nyx gang the Claw Salamanders, [TARGET], who has made it on to my naughty list. They had been on the run for quite awhile, but just recently popped back up at an old mining station in the Keeger Belt. Our lucky day shall be their last.  \\n\\nWord is that you can find them at [LOCATION].  Unfortunately, there is a strong chance you may have to do some repairs to the station itself before you can gain access to that particular area.\\n\\nBut I'm sure you're more than up to the challenge.\\n\\nSincerely,\\nVaughn",
@@ -3108,7 +3108,7 @@
     },
     "vaughn_assassination_FPS_UGF_illegal_boss_desc_001": {
       "en": "I am not sure if you’re acquainted with [LOCATION], but [TARGET] is the one who calls the shots there. I need them eliminated.\\n\\nThat is easier said then done, I'm afraid. They are notoriously reluctant to see to matters personally, preferring their underlings to handle the dirty work. That said, eliminate enough of the underlings and they will have no choice but to deal with you themselves.\\n\\nEarnestly,\\nVaughn",
-      "tr": "不知道你熟不熟悉[LOCATION]，[TARGET]是那一片的地头蛇。我现在需要他们死。\\n\\n这活计可没那么简单，他们是出了名的不喜欢亲自动手，什么脏活累活都扔给手下去干。所以，只要你杀掉他们足够多的部下，他们就不得不亲自出来和你战斗了。\\n\\n你真诚的，\\n沃恩"
+      "tr": "不知道你熟不熟悉 [LOCATION]，[TARGET] 是那一片的地头蛇。我现在需要他们死。\\n\\n这活计可没那么简单，他们是出了名的不喜欢亲自动手，什么脏活累活都扔给手下去干。所以，只要你杀掉他们足够多的部下，他们就不得不亲自出来和你战斗了。\\n\\n你真诚的，\\n沃恩"
     },
     "vaughn_assassination_FPS_UGF_illegal_desc_001": {
       "en": "They say there is no honor among thieves. Today, it seems, you're targeting one of your own. \\n\\nPlease head to [LOCATION] and kill [TARGET]. What you do with the others there is entirely up to you.\\n\\nEarnestly,\\nVaughn",
@@ -3768,7 +3768,7 @@
     },
     "DeadSaints_HaulCargo_AToB_desc_Cryopods_Danger": {
       "en": "Got an interesting one. Some folks who were suckered into life/labor contracts with Hurston Dynamics want to get as far from Lorville as they possibly can. They struck a deal with a people mover and got themselves put on ice. Now they just need someone to pick them up and give them a ride. \\n\\nIf you're up for some popsicle smuggling, you'll find [TOTAL] cryopods at <EM4>[LOCATION]</EM4> that need to go to <EM4>[DESTINATION]</EM4>. Make sure you have space in your cargo hold for size <EM4>2 SCU</EM4> containers. If you use a <EM4>handheld tractor beam</EM4>, you should be able to get everyone loaded up before Hurston security catches on. \\n\\nHD isn't too keen on anyone slipping out of their contracts, so watch your back. They shoot to kill. \\n\\nIf you can pull this off, there's a nice paycheck in it for you.\\n\\n-Twitch",
-      "tr": "有个挺有意思的事儿，一些被赫斯顿动力公司骗去签了劳工合同的人，想离罗威尔越远越好，他们跟个客运公司谈妥了，把自己给冷冻起来了，现在就等有人去接他们，捎他们一程。\\n\\n如果你打算干点“冰棍”走私的活儿，那就在 <EM4>[LOCATION]</EM4> 找到 [TOTAL] 个冷冻舱，把它们运到 <EM4>[DESTINATION]</EM4>。记得你的货舱有空间能装得下 <EM4>[MAX_SCU] 尺寸的集装箱</EM4>。要是你有<EM4>手持式牵引光束</EM4>，那大概能趁赫斯顿安保还没反应过来的时候就能把所有人都装上船。\\n\\n赫斯顿那帮人可不乐意有人跑路，所以小心点，他们可是见人就开枪。\\n\\n这事要是成了，报酬少不了你的。\\n\\n- 刺痛"
+      "tr": "有个挺有意思的事儿，一些被赫斯顿动力公司骗去签了劳工合约的人，想离罗威尔越远越好，他们跟个客运公司谈妥了，把自己给冷冻起来了，现在就等有人去接他们，捎他们一程。\\n\\n如果你打算干点“冰棍”走私的活儿，那就在 <EM4>[LOCATION]</EM4> 找到 [TOTAL] 个冷冻舱，把它们运到 <EM4>[DESTINATION]</EM4>。记得你的货舱有空间能装得下 <EM4>[MAX_SCU] 尺寸的集装箱</EM4>。要是你有<EM4>手持式牵引光束</EM4>，那大概能趁赫斯顿安保还没反应过来的时候就能把所有人都装上船。\\n\\n赫斯顿那帮人可不乐意有人跑路，所以小心点，他们可是见人就开枪。\\n\\n这事要是成了，报酬少不了你的。\\n\\n- 刺痛"
     },
     "headhunters_eliminateall_retrievestolen_base_Generic_M_desc_001": {
       "en": "Local crew decided to hit one of our convoys and steal our shit. They got away, but we aren't gonna let them celebrate for long. I want you to head out to [LOCATION] where they got a base, blast them into ash, and get our stuff back. \\n\\nOnce you got the cargo, take it over to [DESTINATION] and we can all forget these assholes ever existed.\\n\\nStows out.",
@@ -3884,7 +3884,7 @@
     },
     "InterSec_KillShip_Vanduul_Desc_Super_001": {
       "en": "MISSION SPECS\\n\\nArea of Operation: Nyx System\\nHostile Forces: Vanduul\\nEquipment Specs: Combat-rated Ship\\nBriefing: InterSec requires the services of a skilled pilot who’s prepared to assist in taking down a dangerous Vanduul target that has been involved in numerous attacks.\\n\\nVanduul incursions have been on the rise recently, posing not only a threat to the system of Nyx, but the UEE as a whole. It is imperative that these sightings are responded to in a swift and efficient manner. \\n\\nWe require you to fly to the last known sighting of the Vanduul ship at <EM4>[LOCATION]</EM4> and eliminate them immediately.  \\n\\nVanduul pilots are highly skilled and extremely dangerous. Engage the enemy immediately and do not hesitate – they will not show the same mercy.\\n\\nCompensation proportionate to the risk of the contract will be awarded.\\n\\nRespectfully,\\nDeacon Tobin\\nOperations Manager\\nInterSec Defense Solutions\\n\\nThis communication consists of a non-binding offer that upon acceptance may be immediately terminated by either party without any given notice. All operations are conducted at the contractor’s own personal risk and must adhere to system law where applicable.",
-      "tr": "任务说明\\n\\n行动区域：尼克斯星系\\n敌对势力：剜度\\n装备规格：战斗级飞船\\n任务简报：互安需要一名技术娴熟的飞行员，该飞行员必须准备好协助击落一个危险的剜度目标，这个目标已经参与了许多次攻击。\\n\\n最近剜度的入侵事件有所增加，这不仅对尼克斯星系构成了威胁，也对整个 UEE 构成了威胁。必须迅速而有效地应对这些情况。\\n\\n我们需要你飞往 <EM4>[LOCATION]</EM4>，即剜度飞船最后一次出现的地点，并立即将其消灭。\\n\\nVanduul飞行员技术高超且极其危险。立即与敌人交战，不要犹豫——他们不会手下留情。\\n\\n根据合同风险，将给予相应的报酬。\\n\\n\\n此致，\\n迪肯·托宾\\n运营经理\\n互安防务\\n\\n本通讯内容是一份非约束性的提议，一旦接受，任何一方都可以在不另行通知的情况下立即终止。所有行动均由承包商自行承担风险，并且必须遵守 UEE 和相关星系的法律。"
+      "tr": "任务说明\\n\\n行动区域：尼克斯星系\\n敌对势力：剜度\\n装备规格：战斗级飞船\\n任务简报：互安需要一名技术娴熟的飞行员，该飞行员必须准备好协助击落一个危险的剜度目标，这个目标已经参与了许多次攻击。\\n\\n最近剜度的入侵事件有所增加，这不仅对尼克斯星系构成了威胁，也对整个 UEE 构成了威胁。必须迅速而有效地应对这些情况。\\n\\n我们需要你飞往 <EM4>[LOCATION]</EM4>，即剜度飞船最后一次出现的地点，并立即将其消灭。\\n\\nVanduul飞行员技术高超且极其危险。立即与敌人交战，不要犹豫——他们不会手下留情。\\n\\n根据合约风险，将给予相应的报酬。\\n\\n\\n此致，\\n迪肯·托宾\\n运营经理\\n互安防务\\n\\n本通讯内容是一份非约束性的提议，一旦接受，任何一方都可以在不另行通知的情况下立即终止。所有行动均由承包商自行承担风险，并且必须遵守 UEE 和相关星系的法律。"
     },
     "HeadHunters_ShipAmbush_S_desc_001": {
       "en": "Headhunters are looking for someone with the skills and crew to execute an elite op. A military frigate and escort ships are stalking one of our Clips around the system. Don’t know their intentions but it can’t be good. Figure while they’ve got their eyes focused on their prize, we get someone to gather a crew to hit ‘em.  \\n\\nAlready got a spot picked out. If you get to <EM4>[LOCATION]</EM4> there’s an emission cloud that’s exactly what we need. Head there with friends, power down your ships, and wait for the <EM4>[TARGET]</EM4> and its escorts to pass by. \\n\\nWith a bonus of <EM4>16 Council Scrip</EM4> for the main contractor, payment alone should make this worth your while, but you can also keep anything you scrounge from the wreckage.\\n\\n- Stows",
@@ -4208,7 +4208,7 @@
     },
     "ItemGathering_ASD_Desc": {
       "en": "Hockrow Agency \\nCase File #JD10285\\nLead Investigator: Arken Mallor\\n\\nCase Update: \\nIn going through the files, I’ve seen a couple of allusions to a specific lab sample that would potentially be useful to have our people analyze. Not sure where it is exactly, but if you hunt around Onyx Facility you should be able to find the sample and bring it to me.\\n\\nContract Investigator Actions:\\nExplore the <EM4>Onyx Facility Research Wing</EM4> and <EM4>track down the Lab Sample</EM4> and deliver it to <EM4>[DESTINATION]</EM4>.\\n\\nAdditional Notes:\\nBe wary of possible hostile forces on site. \\n\\nTravel to Onyx in a vehicle that can be stored in a large hangar.",
-      "tr": "霍克罗事务所\\n案件文档 #JD10285\\n首席调查员：阿尔肯·马洛\\n\\n案件更新：\\n在翻阅文档时，我发现提到了一个特定的实验室样本，要是能让我们的人分析一下应该会很有用。不过不确定具体在哪儿，但你只要在玛瑙设施里仔细找找，应该就能找到样本，然后带回来给我。\\n\\n合约调查员的行动：\\n探索<EM4>玛瑙设施研究翼楼</EM4>，<EM4>找到实验室样本</EM4>，然后将它送到 <EM4>[DESTINATION]</EM4>。\\n\\n补充说明：\\n小心站点现场可能出现的敌对势力。\\n\\n驾驶一辆可以停放在大型机库中的车辆前往玛瑙设施。"
+      "tr": "霍克罗事务所\\n案件文档 #JD10285\\n首席调查员：阿尔肯·马洛\\n\\n案件更新：\\n在翻阅文档时，我发现提到了一个特定的实验室样本，要是能让我们的人分析一下应该会很有用。不过不确定具体在哪儿，但你只要在玛瑙设施里仔细找找，应该就能找到样本，然后带回来给我。\\n\\n合约调查员的行动：\\n探索<EM4>玛瑙设施研究翼楼</EM4>，<EM4>找到实验室样本</EM4>，然后将它送到 <EM4>[DESTINATION]</EM4>。\\n\\n补充说明：\\n小心站点现场可能出现的敌对势力。\\n\\n驾驶一辆可以停放在大型机库中的载具前往玛瑙设施。"
     },
     "Hockrow_FacilityDelve_P1M1_desc": {
       "en": "Hockrow Agency \\nCase File #JD10285\\nLead Investigator: Arken Mallor\\n\\nCase Summary: \\nA client has requested that Hockrow compile a complete dossier on infamous scientist <EM4>Dr. Logan Jorrit</EM4>. Believed responsible for the incidents at Associated Science & Development’s Lazarus site, the client is eager to get a broader view of Dr. Logan and his research.\\n\\nContract Investigator Actions: \\nGain access to ASD’s shuttered <EM4>Onyx Facility</EM4> where Dr. Jorrit was formerly the Lead Scientist.  Once there, locate and <EM4>access the research lab’s personnel files</EM4> so that we can get an overview of what was going on there.\\n\\nAdditional Notes:\\nThe QT beacon to the site was deactivated when the facility went dark so you'll have to fly the last leg manually.\\n\\nWhile ASD has formally closed the facility, caution is still advised. Not only may the labs themselves be hazardous, but the surrounding area shows signs of recent visitors. Scavengers or squatters may be on site.\\n\\nI've also managed to wrangle an employee ID code for you so as long as you're on the job, you'll be able to access the computers there. \\n\\nAdditionally, Onyx Facility only has large hangars available, so plan your travel appropriately.",
@@ -4216,7 +4216,7 @@
     },
     "Hockrow_FacilityDelve_P2M4_desc": {
       "en": "Hockrow Agency \\nCase File #JD10285\\nLead Investigator: Arken Mallor\\n\\nCase Update: \\nThe seismic data you extracted had some interesting revelations. My expert says she thinks that Jorrit might have been excavating down there. Hate to think what he’s doing, but it's our job to find out. I think we’re close to cracking this, so I want you to go back to Onyx and gather the Power Usage data. If we can track energy flow from the last couple months, a pattern should reveal itself. \\n\\nContract Investigator Actions:\\nExplore the <EM4>Engineering</EM4> wing and <EM4>upload the Power Usage data</EM4>.\\n\\nAdditional Notes:\\nBe wary of possible hostile forces on site. \\n\\nTravel to Onyx in a vehicle that can be stored in a large hangar.\\n\\nOnce you hand off this data, I'll be sending you <EM4>10 Secure Drives</EM4> with copies of the information we've gathered so far. You can collect them at your home location.",
-      "tr": "霍克罗事务所\\n案件文档 #JD10285\\n首席调查员：阿尔肯·马洛\\n\\n案件更新：\\n你提取的地震波数据里有一些有趣的发现。我的专家表示，她觉得乔里特可能在下面进行过挖掘。虽然不太想猜测他在干嘛，但搞清楚这是我们的任务。我觉得我们快找到答案了，所以我想让你返回玛瑙，收集能源用量数据。如果我们能追踪过去几个月的能源流动，应该就能发现一些规律。\\n\\n合约调查员的行动：\\n探索<EM4>工程</EM4>翼楼并<EM4>上传能源用量数据</EM4>。\\n\\n补充说明：\\n小心站点现场可能出现的敌对势力。\\n\\n驾驶一辆可以停放在大型机库中的车辆前往玛瑙设施。\\n\\n一旦你交出这些数据，我会给你发送<EM4> 10 个 ASD 安全驱动器</EM4>，里面会有我们目前收集到的所有数据的副本。你可以在你的家园位置领取它们。"
+      "tr": "霍克罗事务所\\n案件文档 #JD10285\\n首席调查员：阿尔肯·马洛\\n\\n案件更新：\\n你提取的地震波数据里有一些有趣的发现。我的专家表示，她觉得乔里特可能在下面进行过挖掘。虽然不太想猜测他在干嘛，但搞清楚这是我们的任务。我觉得我们快找到答案了，所以我想让你返回玛瑙，收集能源用量数据。如果我们能追踪过去几个月的能源流动，应该就能发现一些规律。\\n\\n合约调查员的行动：\\n探索<EM4>工程</EM4>翼楼并<EM4>上传能源用量数据</EM4>。\\n\\n补充说明：\\n小心站点现场可能出现的敌对势力。\\n\\n驾驶一辆可以停放在大型机库中的载具前往玛瑙设施。\\n\\n一旦你交出这些数据，我会给你发送<EM4> 10 个 ASD 安全驱动器</EM4>，里面会有我们目前收集到的所有数据的副本。你可以在你的家园位置领取它们。"
     },
     "Hockrow_FacilityDelve_P3M1_desc": {
       "en": "Hockrow Agency \\nCase File #JD10285\\nLead Investigator: Arken Mallor\\n\\nCase Update: \\nAll your digging around Onyx has paid off. I’ve been able to confirm that Jorrit has been operating an off-the-record lab in the facility’s Site-B in order to conduct an experiment he calls “Project Hyperion.” I’ll send his <EM4>lab notes to your mobiGlas journal</EM4> once you’re underway, but the long and short of it is the bastard is trying to make Humans evolve or some nonsense like that.\\n\\nThe client wants the experimental data, so you’re going back to Onyx and do everything needed to get Project Hyperion up and running. \\n\\nContract Investigator Actions:\\nPrep the experiment by collecting a <EM4>Reagent code from the Engineering wing</EM4> and a <EM4>Catalyst code from the Research wing</EM4>.\\n\\nOnce you have those, head down to the <EM4>Lab in Site-B</EM4> and <EM4>run the experiment</EM4> so you can <EM4>upload the results</EM4>.\\n\\nAdditional Notes:\\nSince this is an active lab, there might be ASD security on-site.\\n \\nTravel to Onyx in a vehicle that can be stored in a large hangar.",
@@ -4788,7 +4788,7 @@
     },
     "InterSec_SecurityPatrol_H_Desc_001": {
       "en": "MISSION SPECS\\n\\nArea of Operation: Nyx System\\nHostile Forces: Outlaws\\nEquipment Specs: Combat-rated Ships\\nBriefing: InterSec has received intelligence that outlaws are planning to launch an attack on a target within the UEE. In an effort to prevent this from happening, we need a contractor to patrol a sector we believe these outlaws are using to prepare for their attack.\\n\\nOutlaw activity in this sector is higher than normal, so InterSec recommends that you <EM4>bring backup</EM4>. When ready, dispatch to the <EM4>location marker</EM4> on your HUD and scan the waypoints along the route. Once you've confirmed that the entire sector is clear, the main contractor will receive a bonus of <EM4>14 MG Scrip.</EM4> \\n\\nRespectfully,\\n\\nDeacon Tobin\\nOperations Manager\\nInterSec Defense Solutions\\n\\nThis communication consists of a non-binding offer that upon acceptance may be immediately terminated by either party without any given notice. All operations are conducted at the contractor’s own personal risk and must adhere to system law where applicable.",
-      "tr": "任务说明\\n\\n行动区域：尼克斯星系\\n敌对势力：不法分子\\n装备规格：战斗级飞船\\n任务简报：互安收到情报，不法分子正计划对 UEE 内的一个目标发动攻击。为了防止这种情况发生，我们需要一名承包商在该区域进行巡逻，我们认为这些不法分子正在该区域为攻击做准备。\\n\\n该区域的不法分子活动比平时更为频繁，因此互安建议你<EM4>带上支援</EM4>。准备好后，前往 HUD 上的<EM4>位置标记</EM4>，并扫描路线上的各个点。一旦确认整个区域安全，主要承包商将获得 <EM4>[SCRIPAMOUNT] 个雇佣兵凭证</EM4>的奖金。\\n\\n\\n此致，\\n迪肯·托宾\\n运营经理\\n互安防务\\n\\n本通讯内容是一份非约束性的提议，一旦接受，任何一方都可以在不另行通知的情况下立即终止。所有行动均由承包商自行承担风险，并且必须遵守 UEE 和相关星系的法律。"
+      "tr": "任务说明\\n\\n行动区域：尼克斯星系\\n敌对势力：不法分子\\n装备规格：战斗级飞船\\n任务简报：互安收到情报，不法分子正计划对 UEE 内的一个目标发动攻击。为了防止这种情况发生，我们需要一名承包商在该区域进行巡逻，我们认为这些不法分子正在该区域为攻击做准备。\\n\\n该区域的不法分子活动比平时更为频繁，因此互安建议你<EM4>带上支援</EM4>。准备好后，前往 HUD 上的<EM4>位置标记</EM4>，并扫描路线上的各个点。一旦确认整个区域安全，主承包商将获得 <EM4>[SCRIPAMOUNT] 个雇佣兵凭证</EM4>的奖金。\\n\\n\\n此致，\\n迪肯·托宾\\n运营经理\\n互安防务\\n\\n本通讯内容是一份非约束性的提议，一旦接受，任何一方都可以在不另行通知的情况下立即终止。所有行动均由承包商自行承担风险，并且必须遵守 UEE 和相关星系的法律。"
     },
     "CFP_SecurityPatrol_M_Desc_001": {
       "en": "Outlaws have been increasing their activity along one of the more popular routes in the system and we’re hoping to provide a deterrent before the problem gets out of hand. As such, we’d like you to head out there in a combat-ready ship and deal with any hostiles you might encounter.\\n\\nOnce you’ve accepted this contract, make your way to the <EM4>location marker</EM4> on your HUD and scan the waypoints along the route. After all of them have been secured, the main contractor will get a bonus of <EM4>8 MG Scrip.</EM4>\\n\\nLima Endicott\\nLead Dispatcher\\nCitizens for Prosperity",
@@ -4808,7 +4808,7 @@
     },
     "InterSec_SecurityPatrol_VH_desc_001": {
       "en": "MISSION SPECS\\n\\nArea of Operation: Nyx System\\nHostile Forces: Outlaws\\nEquipment Specs: Combat-rated Ships\\nBriefing: InterSec has been tracking increased outlaw activity in certain sectors of the system. This activity in conjunction with other intelligence leads us to believe that outlaws are planning an attack on elements traveling from the UEE. We're aiming to patrol these sectors and disrupt any plans before they can be put into action.\\n\\nCurrently, we need someone who can help patrol a highly dangerous sector. Once you've accepted the mission, you can proceed to the <EM4>location marker</EM4> on your HUD. From there, we'll send you along a specific route with additional waypoints to scan. Complete the patrol and we'll send the main contractor a bonus of <EM4>18 MG Scrip.</EM4>\\n\\nDue to the high probability of attack and general threat level of local outlaws, we recommend <EM4>recruiting trusted wingmen</EM4> to provide combat support.\\n\\nRespectfully,\\n\\nDeacon Tobin\\nOperations Manager\\nInterSec Defense Solutions\\n\\nThis communication consists of a non-binding offer that upon acceptance may be immediately terminated by either party without any given notice. All operations are conducted at the contractor’s own personal risk and must adhere to system law where applicable.",
-      "tr": "任务说明\\n\\n行动区域：尼克斯星系\\n敌对势力：不法分子\\n装备规格：战斗级飞船\\n任务简报：互安一直在追踪星系某些区域的不法分子活动有所增加。结合其他情报，我们认为这些不法分子正在策划对来自 UEE 的船只发动攻击。我们的目标是巡逻这些区域，在他们的计划实施之前予以破坏。\\n\\n目前，我们需要有人协助巡逻一个危险性极高的区域。一旦你接受任务，就可以前往 HUD 上的<EM4>位置标记</EM4>。从那里，我们会为你提供一条包含多个检查点的具体路线。完成巡逻后，我们将向主要承包商发放 <EM4>[SCRIPAMOUNT] 个雇佣兵凭证</EM4>的奖励。\\n\\n由于攻击的可能性很高且当地不法分子的威胁等级较高，我们建议<EM4>招募可靠的僚机</EM4>以提供战斗支援。\\n\\n\\n此致，\\n迪肯·托宾\\n运营经理\\n互安防务\\n\\n本通讯内容是一份非约束性的提议，一旦接受，任何一方都可以在不另行通知的情况下立即终止。所有行动均由承包商自行承担风险，并且必须遵守 UEE 和相关星系的法律。"
+      "tr": "任务说明\\n\\n行动区域：尼克斯星系\\n敌对势力：不法分子\\n装备规格：战斗级飞船\\n任务简报：互安一直在追踪星系某些区域的不法分子活动有所增加。结合其他情报，我们认为这些不法分子正在策划对来自 UEE 的船只发动攻击。我们的目标是巡逻这些区域，在他们的计划实施之前予以破坏。\\n\\n目前，我们需要有人协助巡逻一个危险性极高的区域。一旦你接受任务，就可以前往 HUD 上的<EM4>位置标记</EM4>。从那里，我们会为你提供一条包含多个检查点的具体路线。完成巡逻后，我们将向主承包商发放 <EM4>[SCRIPAMOUNT] 个雇佣兵凭证</EM4>的奖励。\\n\\n由于攻击的可能性很高且当地不法分子的威胁等级较高，我们建议<EM4>招募可靠的僚机</EM4>以提供战斗支援。\\n\\n\\n此致，\\n迪肯·托宾\\n运营经理\\n互安防务\\n\\n本通讯内容是一份非约束性的提议，一旦接受，任何一方都可以在不另行通知的情况下立即终止。所有行动均由承包商自行承担风险，并且必须遵守 UEE 和相关星系的法律。"
     },
     "CFP_SecurityPatrol_VE_Desc_001": {
       "en": "We need someone with combat experience to patrol a travel lane for us. Over the years, we’ve found that it's good to get out there and make ourselves visible. Sometimes a pilot like yourself traveling through an area is enough to deter any potential outlaws. But in case you run into any that are feeling a bit more ambitious, a ship ready for combat is recommended.\\n\\nOnce you’ve accepted this contract, make your way to the <EM4>location marker</EM4> on your HUD. After you’ve scanned all the waypoints and ensured that the route is secure, the main contractor will get a bonus of <EM4>2 MG Scrip.</EM4>\\n\\nLima Endicott\\nLead Dispatcher\\nCitizens for Prosperity",
@@ -4816,7 +4816,7 @@
     },
     "InterSec_SecurityPatrol_S_Desc_001": {
       "en": "MISSION SPECS\\n\\nArea of Operation: Nyx System\\nHostile Forces: Vanduul\\nEquipment Specs: Combat-rated Ships\\nBriefing: There's a growing concern that Vanduul hunting parties are pushing further into Nyx. The first line of defense against this encroachment is increased patrols. InterSec has identified a sector that has seen an uptick in Vanduul activity and are looking for someone to patrol the region and provide an update on it.\\n\\nYou'll begin your patrol at a <EM4>location marker</EM4> sent to your HUD and then scan a series of waypoints along a designated route. The Vanduul ships in this sector are highly skilled and aggressive, so InterSec highly recommends that you <EM4>bring several combat-ready ships along as backup</EM4>.\\n\\nInterSec understands the immense danger you'll be under on this patrol, so we'll send a special bonus of <EM4>24 MG Scrip</EM4> to the main contractor once the sector is clear.      \\n\\nRespectfully,\\n\\nDeacon Tobin\\nOperations Manager\\nInterSec Defense Solutions\\n\\nThis communication consists of a non-binding offer that upon acceptance may be immediately terminated by either party without any given notice. All operations are conducted at the contractor’s own personal risk and must adhere to system law where applicable.",
-      "tr": "任务说明\\n\\n行动区域：尼克斯星系\\n敌对势力：剜度\\n装备规格：战斗级飞船\\n任务简报：人们越来越担心剜度狩猎队伍正在进一步侵入尼克斯。防止这种入侵的第一道防线是加强巡逻。互安已经确定了一个剜度活动增加的区域，正在寻找人员前往该地区进行巡逻并提供最新情况。\\n\\n你将从发送到 HUD 的<EM4>位置标记</EM4>开始巡逻，然后沿着指定的路线扫描各个点。该区域的剜度飞船技术高超且极具攻击性，因此互安强烈建议你<EM4>带上几艘准备好战斗的飞船作为支援</EM4>。\\n\\n互安了解你在这次巡逻中将面临的巨大危险，因此一旦该区域安全，我们将向主要承包商发放 <EM4>[SCRIPAMOUNT] 个雇佣兵凭证</EM4>的特别奖励。\\n\\n\\n此致，\\n迪肯·托宾\\n运营经理\\n互安防务\\n\\n本通讯内容是一份非约束性的提议，一旦接受，任何一方都可以在不另行通知的情况下立即终止。所有行动均由承包商自行承担风险，并且必须遵守 UEE 和相关星系的法律。"
+      "tr": "任务说明\\n\\n行动区域：尼克斯星系\\n敌对势力：剜度\\n装备规格：战斗级飞船\\n任务简报：人们越来越担心剜度狩猎队伍正在进一步侵入尼克斯。防止这种入侵的第一道防线是加强巡逻。互安已经确定了一个剜度活动增加的区域，正在寻找人员前往该地区进行巡逻并提供最新情况。\\n\\n你将从发送到 HUD 的<EM4>位置标记</EM4>开始巡逻，然后沿着指定的路线扫描各个点。该区域的剜度飞船技术高超且极具攻击性，因此互安强烈建议你<EM4>带上几艘准备好战斗的飞船作为支援</EM4>。\\n\\n互安了解你在这次巡逻中将面临的巨大危险，因此一旦该区域安全，我们将向主承包商发放 <EM4>[SCRIPAMOUNT] 个雇佣兵凭证</EM4>的特别奖励。\\n\\n\\n此致，\\n迪肯·托宾\\n运营经理\\n互安防务\\n\\n本通讯内容是一份非约束性的提议，一旦接受，任何一方都可以在不另行通知的情况下立即终止。所有行动均由承包商自行承担风险，并且必须遵守 UEE 和相关星系的法律。"
     },
     "TheCollector_Ships_Peregrine_Desc": {
       "en": "Wikelo not want to race but can still make fast ship faster. If you want, bring me things, and go faster.",
@@ -4860,7 +4860,7 @@
     },
     "northrock_bounty_prisoner_desc_intro": {
       "en": "Hey There,\\n\\nMy name is Braden Corchado and I'm a logistics officer for Northrock Service Group, the leading independently-owned security firm operating in the Stanton system. I may have reached out already, but we try to make it a point of approaching anyone who meets our high standards and encouraging them to complete a pro tem contract. \\n\\nYou can't do much better than become a Northrock contractor. We have a solid reputation for offering challenging and interesting work at a higher rate of pay then many of our competitors in system. \\n\\nNow, to get approved, you will need to apprehend one [TARGET]. They have recently escaped from the detention center and your job will be to track them down before they can disappear completely off the grid. \\n\\nA little hint is that it's safe to assume that the target is going to go try to clear their record. I recommend triangulating your search between the detention center they escaped from and locations where they can hack into the record system.\\n\\nGet this done and we'll see about getting you more work.\\n\\nHope to hear from you soon, \\n\\nBraden Corchado\\nLogistics Officer - Stanton Branch\\nNorthrock Service Group",
-      "tr": "你好，\\n\\n我叫布雷登·科查多，北境之岩服务团队的后勤官，斯坦顿星系内最大的独立安保公司。我可能已经找过你了，但我们希望能联系上每个达到高标准的人，并去完成我们的临时合约。\\n\\n成为北境之岩的承包商绝对是你的不二之选。我们良好的声誉能为你提供一些既有趣又不乏挑战性的工作，且报酬高于星系内的其它竞争者。\\n\\n如果，你想获得认证的话，你需要去抓捕 [TARGET]。他们最近刚从拘留中心里逃出来，而你的工作就是在他们消声灭迹前，把他们抓回去。\\n\\n有些线索能帮得上忙，可以假设他们此时应该赶着要去清除记录，我建议你在拘留中心的位置，和他们有机会能骇入记录系统的地方进行下三角定位。\\n\\n搞定这事我再看看能不能安排给你更多的活。\\n\\n希望尽快收到你的答复，\\n\\n布雷登·科查多\\n后勤官 - 斯坦顿分部\\n北境之岩服务团队"
+      "tr": "你好，\\n\\n我叫布雷登·科查多，北境之岩服务团队的后勤官，斯坦顿星系内最大的独立安保公司。我可能已经找过你了，但我们希望能联系上每个达到高标准的人，并去完成我们的临时合约。\\n\\n成为北境之岩的承包商绝对是你的不二之选。我们良好的声誉能为你提供一些既有趣又不乏挑战性的工作，且报酬高于星系内的其它竞争者。\\n\\n如果，你想获得认证的话，你需要去抓捕 <EM4>[TARGET]</EM4>。他们最近刚从拘留中心里逃出来，而你的工作就是在他们消声灭迹前，把他们抓回去。\\n\\n有些线索能帮得上忙，可以假设他们此时应该赶着要去清除记录，我建议你在拘留中心的位置，和他们有机会能骇入记录系统的地方进行下三角定位。\\n\\n搞定这事我再看看能不能安排给你更多的活。\\n\\n希望尽快收到你的答复，\\n\\n布雷登·科查多\\n后勤官 - 斯坦顿分部\\n北境之岩服务团队"
     },
     "TheCollector_Ships_MISC_Prospector_Desc": {
       "en": "Wikelo loves rocks. Wants to help you get more better rocks. Made this Prospector more better for that tough job. Trade items and you can have.",
@@ -4928,7 +4928,7 @@
     },
     "shubin_rockcracker_pvp_desc_01": {
       "en": "CONTRACT: Mining Rights Transfer\\nLOCATION: Nyx\\n\\nDETAILS: \\nShubin Interstellar prospectors have recently discovered the location of an abandoned QV Planetary Service Breaker Station near the Keeger belt. These stations were originally used by the defunct company to harvest valuable resources from inside asteroids but knowledge of their exact locations has been lost over the years. \\n\\nWhile this particular station is offline, our scout team believes that it could be made functional again with the necessary repairs. Additionally, if it was brought back online, there's already a resource-heavy asteroid in place ready to be cracked by the station's mining laser. \\n\\nUnfortunately, with all the various challenges that come with operating in Nyx, Shubin doesn't currently have the available bandwidth to handle the aforementioned repairs ourselves. This however has created an opportunity for an interested independent mining operation such as yourself. \\n\\n<EM4>TERMS*:</EM4>\\nWe are making available the <EM4>shared mining rights</EM4> to this QV Breaker Station. Upon purchase, we will provide the coordinates of the station to you and your crew. (Remember, any other interested parties who purchase the mining rights will get access to the station as well.) Your crew will then be free to head there with a <EM4>mining vessel</EM4>, restore the <EM4>station's mining laser</EM4> to an operational status, crack the asteroid, and <EM4>harvest the resources</EM4> inside. \\n\\nPlease note that since this is a shared contract we are able to offer these mining rights at a reduced prices, but the resources in the asteroid will be available on a <EM4>first come, first serve</EM4> basis with any other mining crews at the site. Also, there is also a chance that other interested parties, such as outlaws, may discover the station's location on their own. Caution is advised. \\n\\n*By accepting this contract you are assuming any and all risks associated with the work outlined herein and in no way can Shubin Interstellar be held accountable for any damages accrued during the duration of the contract.",
-      "tr": "合约：采矿权转让\\n地点：尼克斯星系\\n\\n详情：\\n舒宾星际的勘探者们最近发现了一处已被废弃的 QV 行星服务公司碎岩站的位置，该站位于基格小行星带附近。这些站点最初由这家已倒闭的公司用来从小行星内部开采珍贵资源，但其确切位置早已丢失多年。\\n\\n虽然该站点目前处于离线状态，但我们的侦察队认为，只要进行必要的维修，它就能重新投入使用。此外，一旦将其恢复运行，现场已经有一块富含资源的小行星，随时可以由站点的采矿激光进行开采。\\n\\n不幸的是，由于在尼克斯运营面临的各种挑战，舒宾手头目前没有足够的宽裕自行处理上述维修工作。但这却为像您这样对独立采矿作业感兴趣的人创造了一个机会。\\n\\n<EM4>条款*:</EM4>\\n我们提供该 QV 碎岩站站的<EM4>共享采矿权</EM4>。购买后，我们将向您及您的船员提供该站点的坐标。（请注意，任何其他有兴趣购买采矿权的人也将获得该站点的访问权限。）随后，您的船员可驾驶<EM4>采矿飞船</EM4>前往该地点，将<EM4>该空间站的采矿激光</EM4>恢复至运行状态，开采小行星，并在内部<EM4>获取资源</EM4>。\\n\\n请注意，由于这是一份共享合同，所以我们能够以较低的价格提供这些采矿权，但小行星中的资源将与现场的其他采矿人员按<EM4>先到先得</EM4>的原则共享。此外，其他感兴趣的各方（如不法分子）也有可能自行发现该空间站的位置。请务必谨慎行事。\\n\\n*接受本合约即表示你原意承担与本合约所列工作相关的所有风险，舒宾星际在对任何在合约期间造成的损害概不负责。"
+      "tr": "合约：采矿权转让\\n地点：尼克斯星系\\n\\n详情：\\n舒宾星际的勘探者们最近发现了一处已被废弃的 QV 行星服务公司碎岩站的位置，该站位于基格小行星带附近。这些站点最初由这家已倒闭的公司用来从小行星内部开采珍贵资源，但其确切位置早已丢失多年。\\n\\n虽然该站点目前处于离线状态，但我们的侦察队认为，只要进行必要的维修，它就能重新投入使用。此外，一旦将其恢复运行，现场已经有一块富含资源的小行星，随时可以由站点的采矿激光进行开采。\\n\\n不幸的是，由于在尼克斯运营面临的各种挑战，舒宾手头目前没有足够的宽裕自行处理上述维修工作。但这却为像您这样对独立采矿作业感兴趣的人创造了一个机会。\\n\\n<EM4>条款*:</EM4>\\n我们提供该 QV 碎岩站站的<EM4>共享采矿权</EM4>。购买后，我们将向您及您的船员提供该站点的坐标。（请注意，任何其他有兴趣购买采矿权的人也将获得该站点的访问权限。）随后，您的船员可驾驶<EM4>采矿飞船</EM4>前往该地点，将<EM4>该空间站的采矿激光</EM4>恢复至运行状态，开采小行星，并在内部<EM4>获取资源</EM4>。\\n\\n请注意，由于这是一份共享合约，所以我们能够以较低的价格提供这些采矿权，但小行星中的资源将与现场的其他采矿人员按<EM4>先到先得</EM4>的原则共享。此外，其他感兴趣的各方（如不法分子）也有可能自行发现该空间站的位置。请务必谨慎行事。\\n\\n*接受本合约即表示你原意承担与本合约所列工作相关的所有风险，舒宾星际在对任何在合约期间造成的损害概不负责。"
     },
     "headhunters_defendship_multi_VHRT_PA_desc_001": {
       "en": "One of our Clips is in a tight spot. Just got a comm from ‘em saying their convoy is being swarmed by the People’s Alliance and they need help on the double. Well, they said it in a more colorful way than that. All I’ll say is that I don’t want to hear what they’ll say to me if they don’t survive and are forced to regen. \\n\\nSituation must be serious if this Clip is freaking out. Really need you to get to <EM4>[LOCATION]</EM4> immediately, and ensure that they make it out alive.\\n\\nStows out.",
@@ -4976,7 +4976,7 @@
     },
     "Covalex_RecoverCargo_Super_Description": {
       "en": "Hey,\\n\\nOnly looking for contractors who are the best of the best for this one. One of our most valued clients is expecting an incredibly important shipment which is now seriously overdue.\\n\\nHere at Covalex, we pride ourselves on treating all of our clients equally, offering outstanding levels of service regardless of what we're delivering. That being said, if we lose this contract someone's gonna be in hot water and I really can't afford for that person to be me.\\n\\nThe tracker is reporting that the last contractor's ship is over at <EM4>[LOCATION]</EM4>. Don't take any chances with this one, you'll need a ship that can hold <EM4>[MAX_SCU] cargo containers</EM4> and a <EM4>heavy-duty tractor beam</EM4> to collect it all.\\n\\nDeliver the shipment to the freight elevator at <EM4>[DESTINATION]</EM4> and we can put this whole mess behind us. And you'll make a sizeable heap of credits in the process. Not bad, right?\\n\\nThanks in advance for ensuring prompt service,\\n\\nElla Tieno \\nJr. Logistics Coordinator \\nCovalex Shipping   \\n'Anything you need, anywhere you need it.' \\n\\nCovalex Shipping is a limited liability corporation. To encourage timely deliveries and prevent fraud on cargo hauls, Covalex Shipping will set a delivery time limit and upon expiration, any undelivered cargo will be considered stolen and treated as such. Total payment will be prorated according to the percentage of cargo successfully delivered.",
-      "tr": "嘿，\\n\\n这活儿只找最优秀的承包商来做。我们一位极其重要的客户正等着一批超级关键的货，结果现在严重超期了。\\n\\n在科瓦莱什，我们向来等对待所有客户，不管送啥都拼尽全力服务到位。但这次要是搞砸了合同，肯定有人要倒大霉，而我真的不希望那个人是我...\\n\\n追踪器显示，上一任承包商的飞船还在 <EM4>[LOCATION]</EM4> 那儿。这单别掉以轻心，你得开一艘能装得下 <EM4>[MAX_SCU] 尺寸集装箱</EM4>的飞，还得配上一把<EM4>重型牵引光束</EM4>，不然根本搬不动。\\n\\n货一拿到手，立刻送到 <EM4>[DESTINATION]</EM4> 的货运电梯那儿。然后咱们就翻篇，而且你还能赚一大笔信用点，挺不错吧？\\n\\n[SIGN_OFF]\\n\\n艾拉·蒂埃诺\\n初级物流协调员\\n科瓦莱什货运\\n“尽你所需，达你所在。”\\n\\n\\n科瓦莱什货运是一家有限责任公司，为鼓励及时交付和防止货运欺诈，科瓦莱什货运将设定交货时间限制。到期后，任何未交付的货物将被视为被盗。总酬金将会根据货物成功交付的百分比按比例支付。"
+      "tr": "嘿，\\n\\n这活儿只找最优秀的承包商来做。我们一位极其重要的客户正等着一批超级关键的货，结果现在严重超期了。\\n\\n在科瓦莱什，我们向来等对待所有客户，不管送啥都拼尽全力服务到位。但这次要是搞砸了合约，肯定有人要倒大霉，而我真的不希望那个人是我...\\n\\n追踪器显示，上一任承包商的飞船还在 <EM4>[LOCATION]</EM4> 那儿。这单别掉以轻心，你得开一艘能装得下 <EM4>[MAX_SCU] 尺寸集装箱</EM4>的飞，还得配上一把<EM4>重型牵引光束</EM4>，不然根本搬不动。\\n\\n货一拿到手，立刻送到 <EM4>[DESTINATION]</EM4> 的货运电梯那儿。然后咱们就翻篇，而且你还能赚一大笔信用点，挺不错吧？\\n\\n[SIGN_OFF]\\n\\n艾拉·蒂埃诺\\n初级物流协调员\\n科瓦莱什货运\\n“尽你所需，达你所在。”\\n\\n\\n科瓦莱什货运是一家有限责任公司，为鼓励及时交付和防止货运欺诈，科瓦莱什货运将设定交货时间限制。到期后，任何未交付的货物将被视为被盗。总酬金将会根据货物成功交付的百分比按比例支付。"
     },
     "CFP_RecoverCargo_Medium_Description": {
       "en": "A Citizens for Prosperity ship has been ambushed by a group of outlaws over at <EM4>[LOCATION]</EM4> and we need a skilled pilot to help them out.\\n\\nWe lost contact with them mid comms, but it sounded like they were taking heavy fire. It may be too late for them, but the vital supplies they were carrying could still be put to good use. Fly over there, take out any hostiles, and recover the shipment. You'll need a ship that can support <EM4>[MAX_SCU] cargo containers</EM4> and a <EM4>heavy-duty tractor beam</EM4> to transport the supplies onto your ship.\\n\\nTake them to the freight elevator at <EM4>[DESTINATION]</EM4> and I'll guarantee they'll be put to good use.\\n\\nBe safe out there,\\n\\nLima Endicott\\nLead Dispatcher\\nCitizens for Prosperity",
@@ -5048,7 +5048,7 @@
     },
     "RedWind_RecoverCargo_VeryHard_Description": {
       "en": "RED WIND LINEHAUL\\n'YOUR GOODS IN GOOD HANDS'\\n----------------------------\\n\\nPutting out a call for a highly skilled pilot who can recover our client’s cargo. Please only accept this contract if you have experience dealing with extremely hostile situations involving multiple combatants. Additional crew members and a <EM4>heavy-duty tractor beam</EM4> are highly recommended.\\n\\nRECOVERY LOCATION\\n     · <EM4>[LOCATION]</EM4>\\n\\nDROP OFF LOCATION\\n     · Freight elevator at <EM4>[DESTINATION]</EM4>\\n\\nThe cargo should be in the bay of the abandoned ship. The client has already expressed frustration regarding the cargo’s delay so please work quickly and efficiently.\\n\\nBE RESILIENT – Life is hard and sometimes you have to roll with the punches. Keep going and don’t let it bring you down.",
-      "tr": "红风物流\\n“您的货物，有我保障”\\n----------------------------\\n\\n召集一名技术高超的飞行员，回收我们客户的货物。仅限有处理涉及多名敌对目标的极端危险情况经验者接取本合同。强烈建议携带额外机组人员和一把<EM4>重型牵引光束</EM4>。\\n\\n找回地点\\n     · <EM4>[LOCATION]</EM4>\\n\\n卸货地点\\n     · <EM4>[DESTINATION]</EM4> 的货运电梯\\n\\n货物应该在那艘废弃飞船的货舱里。客户已经对货物的延误表达了不满，所以请迅速高效地完成任务。\\n\\n坚强些 - 生活不易，有时你得学会挨打不倒。继续前进，别让它击垮你。"
+      "tr": "红风物流\\n“您的货物，有我保障”\\n----------------------------\\n\\n召集一名技术高超的飞行员，回收我们客户的货物。仅限有处理涉及多名敌对目标的极端危险情况经验者接取本合约。强烈建议携带额外机组人员和一把<EM4>重型牵引光束</EM4>。\\n\\n找回地点\\n     · <EM4>[LOCATION]</EM4>\\n\\n卸货地点\\n     · <EM4>[DESTINATION]</EM4> 的货运电梯\\n\\n货物应该在那艘废弃飞船的货舱里。客户已经对货物的延误表达了不满，所以请迅速高效地完成任务。\\n\\n坚强些 - 生活不易，有时你得学会挨打不倒。继续前进，别让它击垮你。"
     },
     "RedWind_RecoverCargo_Easy_Description": {
       "en": "RED WIND LINEHAUL\\n'YOUR GOODS IN GOOD HANDS'\\n----------------------------\\n\\nOne of our haulers ran into some engine trouble whilst transporting some cargo for us and was forced to abandon their ship. Looking for a contractor who can recover the cargo and complete the delivery. You’ll need to bring your own <EM4>heavy-duty tractor beam</EM4> to transport the cargo to your ship. Details below.\\n\\nRECOVERY LOCATION\\n     · <EM4>[LOCATION]</EM4>\\n\\nDROP OFF LOCATION\\n     · Freight elevator at <EM4>[DESTINATION]</EM4>\\n\\nBe advised, the recovery location hasn’t been verified as safe. You might find an opportunistic outlaw trying to take the cargo for themselves, so be on alert.\\n\\nTAKE PRIDE IN YOUR WORK – Even as a contractor you are representing Red Wind Linehaul. Do not intentionally do anything to harm the company’s reputation.",
@@ -5060,7 +5060,7 @@
     },
     "RedWind_RecoverCargo_Super_Description": {
       "en": "RED WIND LINEHAUL\\n'YOUR GOODS IN GOOD HANDS'\\n----------------------------\\n\\nWe have a special assignment for only the most competent contractors. One of our haulers who is sadly no longer with us failed to complete their last job. The cargo they were supposed to deliver is sitting stationary in their former ship in the location listed below.\\n\\nRECOVERY LOCATION\\n     · <EM4>[LOCATION]</EM4>\\n\\nDROP OFF LOCATION\\n     · Freight elevator at <EM4>[DESTINATION]</EM4>\\n\\nI’m not going dance around the issue, this is an extremely challenging job. You’ll need to bring a strong team of skilled pilots with you to deal with the outlaws that killed the previous contractor and a <EM4>heavy-duty tractor beam</EM4> to retrieve the client’s cargo. That said, if you take on this contract, we will make it worth your time.\\n\\nHOW DID WE DO – Complete our short feedback survey on our Spectrum page for a chance to enter our monthly prize draw.",
-      "tr": "红风物流\\n“您的货物，有我保障”\\n----------------------------\\n\\n我们为最优秀的承包商准备了一项特殊任务。我们的一名运输员不幸遇难，未能完成最后一单任务。他原本要运送的货物，现在仍静静躺在他那艘飞船里，位置如下。\\n\\n找回地点\\n     · <EM4>[LOCATION]</EM4>\\n\\n卸货地点\\n     · <EM4>[DESTINATION]</EM4> 的货运电梯\\n\\n我不会和你绕弯子，这是一项极其艰巨的任务。你需要带一支实力强劲的飞行员团队，去应对杀死上一位承包商的不法分子，并配备一台<EM4>重型牵引光束</EM4>来取回客户的货物。不过，如果你接下这份合同，我们一定会让你觉得值得。\\n\\n我们做得如何 - 请在我们的光谱页面完成简短的反馈调查，有机会参与我们的月度抽奖。"
+      "tr": "红风物流\\n“您的货物，有我保障”\\n----------------------------\\n\\n我们为最优秀的承包商准备了一项特殊任务。我们的一名运输员不幸遇难，未能完成最后一单任务。他原本要运送的货物，现在仍静静躺在他那艘飞船里，位置如下。\\n\\n找回地点\\n     · <EM4>[LOCATION]</EM4>\\n\\n卸货地点\\n     · <EM4>[DESTINATION]</EM4> 的货运电梯\\n\\n我不会和你绕弯子，这是一项极其艰巨的任务。你需要带一支实力强劲的飞行员团队，去应对杀死上一位承包商的不法分子，并配备一台<EM4>重型牵引光束</EM4>来取回客户的货物。不过，如果你接下这份合约，我们一定会让你觉得值得。\\n\\n我们做得如何 - 请在我们的光谱页面完成简短的反馈调查，有机会参与我们的月度抽奖。"
     },
     "RedWind_RecoverCargo_Medium_Description": {
       "en": "RED WIND LINEHAUL\\n'YOUR GOODS IN GOOD HANDS'\\n----------------------------\\n\\nA Red Wind hauler has been ambushed by some outlaws and now our clients’ cargo is sitting still whilst they prepare to steal it. We need a pilot with a <EM4>heavy-duty tractor beam</EM4> and a combat ready ship to head to the location below and recover the cargo before it’s gone for good.\\n\\nRECOVERY LOCATION\\n     · <EM4>[LOCATION]</EM4>\\n\\nDROP OFF LOCATION\\n     · Freight elevator at <EM4>[DESTINATION]</EM4>\\n\\nThe pilot reported multiple hostiles so make sure you take this seriously. \\n\\nEVERY OPPORTUNITY COUNTS – Make the most of what’s given to you, show us that you can handle more work.",
@@ -5132,7 +5132,7 @@
     },
     "RedWind_HaulCargo_AToB_desc_LuxuryGoods_Danger_Timed": {
       "en": "RED WIND LINEHAUL\\n'YOUR GOODS IN GOOD HANDS'\\n----------------------------\\n\\nGot a contract from a major client who needs a skilled pilot to move a large load of luxury items from <EM4>[LOCATION]</EM4> to <EM4>[DESTINATION]</EM4>. \\n\\nYou'll need room for at least <EM4>8 SCU cargo containers</EM4> in your hold. You'll also need a <EM4>handheld tractor beam</EM4> to get everything loaded and unloaded. \\n\\nAnd as a fair warning, the things you'll be carrying are pricey enough that you might attract some unwanted attention. <EM4>Be ready to defend yourself</EM4> if you can't evade.",
-      "tr": "红风物流\\n“您的货物，有我保障”\\n----------------------------\\n\\n我接到了一位大客户的合同，需要一位技术娴熟的飞行员把一批高档货从 <EM4>[LOCATION]</EM4> 运到 <EM4>[DESTINATION]</EM4>。\\n\\n你的货舱至少得能装下 <EM4>[MAX_SCU] 尺寸的集装箱</EM4>，还得带个<EM4>手持式牵引光束</EM4>，方便装卸货。\\n\\n顺便提醒你，你运的这玩意儿贵得离谱，很可能引来不速之客。如果躲不开，<EM4>做好自卫准备</EM4>。"
+      "tr": "红风物流\\n“您的货物，有我保障”\\n----------------------------\\n\\n我接到了一位大客户的合约，需要一位技术娴熟的飞行员把一批高档货从 <EM4>[LOCATION]</EM4> 运到 <EM4>[DESTINATION]</EM4>。\\n\\n你的货舱至少得能装下 <EM4>[MAX_SCU] 尺寸的集装箱</EM4>，还得带个<EM4>手持式牵引光束</EM4>，方便装卸货。\\n\\n顺便提醒你，你运的这玩意儿贵得离谱，很可能引来不速之客。如果躲不开，<EM4>做好自卫准备</EM4>。"
     },
     "RedWind_HaulCargo_SingleToMulti_desc_RevenantTreePollen": {
       "en": "RED WIND LINEHAUL\\n'YOUR GOODS IN GOOD HANDS'\\n----------------------------\\n\\nRed Wind needs an experienced pilot to transport a large shipment of raw revenant tree pollen from <EM4>[LOCATION]</EM4> to these locations:\\n\\nDROP OFF LOCATIONS (ANY ORDER)\\n\\n[SINGLETOMULTITOKEN]\\n\\nThis might seems self-evident, but the rep from CFP asked us to assure you that it's okay under UEE law to transport revenant tree pollen as long as it hasn't been processed. \\n\\nBe sure that your ship can carry up to <EM4>16 SCU cargo containers</EM4> before you accept the contract. And buy a <EM4>handheld tractor beam</EM4> if you don't have one already to make loading and unloading as painless as possible.",
@@ -5252,7 +5252,7 @@
     },
     "HeadHunters_ShipAmbush_Intro_desc_001": {
       "en": "Got an opportunity for someone eager to show off their flying skills. Headhunters have been running afoul of this numbrain flying a<EM4>[TARGET]</EM4> and we’re gonna put a stop to it once and for all.\\n\\nYou’re gonna help us set a trap for them. See, there’s an <EM4>emission cloud</EM4> near <EM4>[LOCATION]</EM4> that they fly by frequently. \\n\\nHead there, hide inside the cloud by powering down your ship, and attack the asshole as soon as you see ‘em and other single-seaters dumb enough to fly with them. It’ll be all you for that first hit, but we’ll put some support ships nearby to help finish the job. \\n\\nAnd in honor of this being your first surprise attack for us, there's a bonus of <EM4>1 Council Scrip</EM4> for the main contractor at the end of the job. \\n\\nStows out.",
-      "tr": "有个机会适合那些想展示自己飞行技巧的人。猎头帮最近惹上了这个驾驶 <EM4>[TARGET]</EM4> 飞船的蠢货，我们得彻底解决这个问题。\\n\\n你要帮我们设一个陷阱。你看，<EM4>[LOCATION]</EM4> 附近有一片<EM4>辐射云</EM4>，他们经常从那里飞过。\\n\\n你去那里，把飞船的引擎关掉藏在云里，一旦看到他们和其他蠢货一起飞，就立刻发动攻击。第一次攻击就靠你一个人了，但我们会派几艘支援飞船来帮忙完成剩下的工作。\\n\\n作为为我们完成的首次突袭，完成任务后，主要承包商会得到<EM4>[SCRIPAMOUNT] 个堂会凭证</EM4>的额外奖励。\\n\\n斯托斯通讯完毕。"
+      "tr": "有个机会适合那些想展示自己飞行技巧的人。猎头帮最近惹上了这个驾驶 <EM4>[TARGET]</EM4> 飞船的蠢货，我们得彻底解决这个问题。\\n\\n你要帮我们设一个陷阱。你看，<EM4>[LOCATION]</EM4> 附近有一片<EM4>辐射云</EM4>，他们经常从那里飞过。\\n\\n你去那里，把飞船的引擎关掉藏在云里，一旦看到他们和其他蠢货一起飞，就立刻发动攻击。第一次攻击就靠你一个人了，但我们会派几艘支援飞船来帮忙完成剩下的工作。\\n\\n作为为我们完成的首次突袭，完成任务后，主承包商会得到<EM4>[SCRIPAMOUNT] 个堂会凭证</EM4>的额外奖励。\\n\\n斯托斯通讯完毕。"
     },
     "Eckhart_ShipAmbush_VE_desc": {
       "en": "ECKHART SECURITY, LLC.\\nCONTRACTS & DISPATCH\\n\\nCONTRACT TYPE: Ship Ambush\\nAPPROVAL CODE = [APPROVAL_CODE]\\n\\nFOR IMMEDIATE PROCESSING\\n\\nOne of our clients has been the victim of consistent harassment so the time has come to send a clear cease-and-desist message by taking out their prized <EM4>[TARGET]</EM4>.  The lowlife in question follows a fairly predictable routine making them susceptible to an ambush. We’ve identified <EM4>[LOCATION]</EM4> as the ideal spot. It features an <EM4>emission cloud</EM4> where you can hide and power down your ship while waiting. \\n\\nBy the way, the <EM4>[TARGET]</EM4> often flies alone but is sometimes joined by a friend in a single-seat ship. Neither should give you too much trouble, but we have other contractors in the area who can lend a hand once you strike.\\n\\nPayment will be issued upon successful completion of contract. There’s a bonus payment of <EM4>1 MG Scrip</EM4> in this for the main contractor too.\\n\\nThis contract is non-negotiable.\\n\\nThis message may contain confidential, proprietary, privileged and/or private information. The information is intended to be for the use of the individual or entity designated above.",
@@ -5300,7 +5300,7 @@
     },
     "Covalex_RecoverCargo_Easy_Description": {
       "en": "Hiya,\\n\\nI've got a client who's been messaging me all morning about a shipment they were supposed to receive and when I checked up on the cargo it turns out that it's sitting completely still in the middle of space.\\n\\nThis is obviously bad for a number of reasons, and not just because I had to spend 20 minutes getting yelled at. Can you head over to <EM4>[LOCATION]</EM4> and see what happened? The original contract called for a ship that could carry <EM4>[MAX_SCU] cargo containers</EM4> so make sure you've got that and a <EM4>heavy-duty tractor beam</EM4>.\\n\\nOnce you've got the cargo, can you make sure it's delivered to the freight elevator at <EM4>[DESTINATION]</EM4>? Thanks a bunch.\\n\\nThanks in advance for ensuring prompt service,\\n\\nElla Tieno \\nJr. Logistics Coordinator \\nCovalex Shipping   \\n'Anything you need, anywhere you need it.' \\n\\nCovalex Shipping is a limited liability corporation. To encourage timely deliveries and prevent fraud on cargo hauls, Covalex Shipping will set a delivery time limit and upon expiration, any undelivered cargo will be considered stolen and treated as such. Total payment will be prorated according to the percentage of cargo successfully delivered.",
-      "tr": "你好，\\n\\n我有个客户一早上都在给我发消息，问他们本该收到的那批货去哪儿了。我查了下货物状态，结果发现它正孤零零地停在太空中间一动不动。\\n\\n这事儿明显很糟，原因不止一个，尤其我还被骂了整整 20 分钟。你能去 <EM4>[LOCATION]</EM4> 那儿看看到底出了啥状况吗？原合同要求用一艘能装下 <EM4>[MAX_SCU] 尺寸集装箱</EM4>的飞船，所以你得确保自己有这个运载能力，还得配个<EM4>重型牵引光束</EM4>。\\n\\n等你拿到货后，记得把它送到 <EM4>[DESTINATION]</EM4> 那儿的货运电梯哈，多谢啦！\\n\\n[SIGN_OFF]\\n\\n艾拉·蒂埃诺\\n初级物流协调员\\n科瓦莱什货运\\n“尽你所需，达你所在。”\\n\\n\\n科瓦莱什货运是一家有限责任公司，为鼓励及时交付和防止货运欺诈，科瓦莱什货运将设定交货时间限制。到期后，任何未交付的货物将被视为被盗。总酬金将会根据货物成功交付的百分比按比例支付。"
+      "tr": "你好，\\n\\n我有个客户一早上都在给我发消息，问他们本该收到的那批货去哪儿了。我查了下货物状态，结果发现它正孤零零地停在太空中间一动不动。\\n\\n这事儿明显很糟，原因不止一个，尤其我还被骂了整整 20 分钟。你能去 <EM4>[LOCATION]</EM4> 那儿看看到底出了啥状况吗？原合约要求用一艘能装下 <EM4>[MAX_SCU] 尺寸集装箱</EM4>的飞船，所以你得确保自己有这个运载能力，还得配个<EM4>重型牵引光束</EM4>。\\n\\n等你拿到货后，记得把它送到 <EM4>[DESTINATION]</EM4> 那儿的货运电梯哈，多谢啦！\\n\\n[SIGN_OFF]\\n\\n艾拉·蒂埃诺\\n初级物流协调员\\n科瓦莱什货运\\n“尽你所需，达你所在。”\\n\\n\\n科瓦莱什货运是一家有限责任公司，为鼓励及时交付和防止货运欺诈，科瓦莱什货运将设定交货时间限制。到期后，任何未交付的货物将被视为被盗。总酬金将会根据货物成功交付的百分比按比例支付。"
     },
     "Shubin_Industrial_HandMining_Nyx_M_PlanetarySystem_Desc_001": {
       "en": "CONTRACT: Mining Order\\nLOCATION: Nyx\\n\\nDETAILS:\\nOne of our prospecting teams recently confirmed that the asteroids which house QV Breaker Stations throughout Nyx's Keeger Belt contain a rare ore type, Sadaryx.\\n\\nHowever, owing to the difficulty in access these stations and the inherent risks involved, we are seeking external mining crews to handle the extraction.\\n\\nWe do not have a confirmed location of where the Sadaryx deposits are located within the station, but would recommend starting with the cave sections where minerals naturally form. If you get really lucky, you may even find some crystals in storage that were mined by the old QV work crews.\\n\\n<EM4>TERMS*:</EM4>\\nYour crew will need to gain access to a <EM4>QV Breaker Station</EM4>, collect the required <EM4> Sadaryx ore</EM4>, and deliver it to the freight elevator located at <EM4>[DESTINATION]</EM4>.\\n\\nThis will require a <EM4>Multi-Tool with a Mining Attachment</EM4> and a basic understanding of hand mining.\\n\\nOur prospecting teams have reported that these stations may have been infiltrated by outlaws. Caution is advised.\\n\\n*By accepting this contract you are assuming any and all risks associated with the work outlined herein and in no way can Shubin Interstellar be held accountable for any damages accrued during the duration of the contract.",
@@ -7154,9 +7154,9 @@
       "en": "Lorville",
       "tr": "罗威尔 (Lorville)"
     },
-    "_noloc_location_JumpPoint_Stanton_Terra": {
-      "en": "JumpPoint_Stanton_Terra",
-      "tr": "JumpPoint_Stanton_Terra"
+    "_noloc_location_JumpPoint_Stanton-Terra": {
+      "en": "JumpPoint_Stanton-Terra",
+      "tr": "JumpPoint_Stanton-Terra"
     },
     "_noloc_location_Inhabited_Derelict_Civilian_Stanton1a_Drlct_Stmnt_001": {
       "en": "Inhabited_Derelict_Civilian_Stanton1a_Drlct_Stmnt_001",
@@ -7390,9 +7390,9 @@
       "en": "Razor's Edge",
       "tr": "剃刀悬崖"
     },
-    "_noloc_location_JumpPoint_Stanton_Pyro": {
-      "en": "JumpPoint_Stanton_Pyro",
-      "tr": "JumpPoint_Stanton_Pyro"
+    "_noloc_location_JumpPoint_Stanton-Pyro": {
+      "en": "JumpPoint_Stanton-Pyro",
+      "tr": "JumpPoint_Stanton-Pyro"
     },
     "Stanton4_NewBabbage": {
       "en": "New Babbage",
@@ -7458,9 +7458,9 @@
       "en": "Inhabited_Derelict_Outlaw_Stanton1",
       "tr": "Inhabited_Derelict_Outlaw_Stanton1"
     },
-    "_noloc_location_JumpPoint_Stanton_Magnus": {
-      "en": "JumpPoint_Stanton_Magnus",
-      "tr": "JumpPoint_Stanton_Magnus"
+    "_noloc_location_JumpPoint_Stanton-Magnus": {
+      "en": "JumpPoint_Stanton-Magnus",
+      "tr": "JumpPoint_Stanton-Magnus"
     },
     "_noloc_location_Inhabited_Derelict_Civilian_Stanton1b_Drlct_Stmnt_001": {
       "en": "Inhabited_Derelict_Civilian_Stanton1b_Drlct_Stmnt_001",
@@ -8410,9 +8410,9 @@
       "en": "Shubin Mining Facility SM0-10",
       "tr": "舒宾采矿设施 SM0-10\\nShubin Mining Facility SM0-10"
     },
-    "_noloc_location_JumpPoint_Stanton_Pyro_SecurityDock": {
-      "en": "JumpPoint_Stanton_Pyro_SecurityDock",
-      "tr": "JumpPoint_Stanton_Pyro_SecurityDock"
+    "_noloc_location_JumpPoint_Stanton-Pyro_SecurityDock": {
+      "en": "JumpPoint_Stanton-Pyro_SecurityDock",
+      "tr": "JumpPoint_Stanton-Pyro_SecurityDock"
     },
     "Stanton4_Shubin_003": {
       "en": "Shubin Mining Facility SM0-18",
