@@ -204,7 +204,7 @@
     },
     "headhunters_eliminateall_cfp_M_title_001": {
       "en": "[LOCATION] has been greenlit",
-      "tr": "袭击 [LOCATION] 已被批准<EM4>[蓝图]</EM4>"
+      "tr": "袭击 [LOCATION] 已被批准[蓝图]"
     },
     "headhunters_maintenance_M_title_001": {
       "en": "[LOCATION] needs a bunch of repairs",
@@ -212,11 +212,11 @@
     },
     "cfp_defend_headhunters_M_title_001": {
       "en": "[LOCATION] needs assistance",
-      "tr": "[LOCATION] 需要协助<EM4>[蓝图]</EM4>"
+      "tr": "[LOCATION] 需要协助[蓝图]"
     },
     "cfp_defend_boss_Generic_title_001": {
       "en": "[LOCATION] needs help",
-      "tr": "[LOCATION] 需要帮助<EM4>[蓝图]</EM4>"
+      "tr": "[LOCATION] 需要帮助[蓝图]"
     },
     "headhunters_maintenance_H_title_001": {
       "en": "[LOCATION] needs massive repairs",
@@ -280,7 +280,7 @@
     },
     "headhunters_ChainElimAll_1C_AttackCFP_E_title_001": {
       "en": "A little retaliation",
-      "tr": "一点小报复<EM4>[蓝图]</EM4>"
+      "tr": "一点小报复[蓝图]"
     },
     "vaughn_assassination_title_VE": {
       "en": "A Simple Task",
@@ -292,7 +292,7 @@
     },
     "Headhunters_eliminateall_caves_title_01": {
       "en": "A Swift Reprisal",
-      "tr": "迅速的报复<EM4>[蓝图]</EM4>"
+      "tr": "迅速的报复[蓝图]"
     },
     "vaughn_assassination_title_S": {
       "en": "A Troublesome Task",
@@ -312,7 +312,7 @@
     },
     "Vaughn_EliminateSpecific_FPS_Rockcracker_title_001": {
       "en": "A Well Deserved Break",
-      "tr": "一次应得的休息<EM4>[蓝图]</EM4>"
+      "tr": "一次应得的休息[蓝图]"
     },
     "Adagio_Industrial_Salvage_Universal_Intro_Title_001": {
       "en": "Adagio Holdings in Need of Salvagers",
@@ -336,11 +336,11 @@
     },
     "cfp_ChainElimAll_1C_ElimSpec_GenAttack_E_title_001": {
       "en": "Alert: [LOCATION] under attack",
-      "tr": "警报：[LOCATION] 遭到攻击<EM4>[蓝图]</EM4>"
+      "tr": "警报：[LOCATION] 遭到攻击[蓝图]"
     },
     "vaughn_assassination_FPS_UGF_illegal_title_001": {
       "en": "All Things Come To An End",
-      "tr": "物皆有终<EM4>[蓝图]</EM4>"
+      "tr": "物皆有终[蓝图]"
     },
     "CleanAir_RecoverCargo_Easy_title": {
       "en": "Alliance Aid: Attempted Cargo Theft",
@@ -528,7 +528,7 @@
     },
     "cfp_defend_cave_Generic_title_001": {
       "en": "Assistance needed at [LOCATION]",
-      "tr": "[LOCATION] 需要协助<EM4>[蓝图]</EM4>"
+      "tr": "[LOCATION] 需要协助[蓝图]"
     },
     "TheCollector_Mod_ATLS_Geo_Grad3_Name": {
       "en": "ATLS Cool Metal Color",
@@ -544,7 +544,7 @@
     },
     "cfp_eliminateall_fromCFP_Gen_E_title_001": {
       "en": "Attack on CFP outpost",
-      "tr": "繁荣公民前哨站遭到攻击<EM4>[蓝图]</EM4>"
+      "tr": "繁荣公民前哨站遭到攻击[蓝图]"
     },
     "headhunters_defend_xt_title_001": {
       "en": "Back up needed at outpost",
@@ -560,7 +560,7 @@
     },
     "BitZeros_blackbox_S_Title_001": {
       "en": "Bad at Goodbyes",
-      "tr": "不善告别\\n[零比特 - 回收黑匣子 ERT]<EM4>[蓝图]</EM4>"
+      "tr": "不善告别\\n[零比特 - 回收黑匣子 ERT][蓝图]"
     },
     "Hockrow_BlackBox_space_S_Title_001": {
       "en": "Blackbox Recovery Request: Special Investigator Level",
@@ -576,7 +576,7 @@
     },
     "BitZeros_blackbox_M_Title_001": {
       "en": "Too Smart For Our Own Good",
-      "tr": "聪明反被聪明误\\n[零比特 - 回收黑匣子 MRT]<EM4>[蓝图]</EM4>"
+      "tr": "聪明反被聪明误\\n[零比特 - 回收黑匣子 MRT][蓝图]"
     },
     "blackbox_recover_title_E_001": {
       "en": "Getting To the Bottom of It",
@@ -588,7 +588,7 @@
     },
     "BitZeros_blackbox_E_Title_001": {
       "en": "Getting To the Bottom of It",
-      "tr": "弄清真相\\n[零比特 - 回收黑匣子 LRT]<EM4>[蓝图]</EM4>"
+      "tr": "弄清真相\\n[零比特 - 回收黑匣子 LRT][蓝图]"
     },
     "blackbox_recover_title_VH_001": {
       "en": "Our Version of The Truth",
@@ -600,7 +600,7 @@
     },
     "BitZeros_blackbox_VH_Title_001": {
       "en": "Our Version of The Truth",
-      "tr": "咱们版本的真相\\n[零比特 - 回收黑匣子 VHRT]<EM4>[蓝图]</EM4>"
+      "tr": "咱们版本的真相\\n[零比特 - 回收黑匣子 VHRT][蓝图]"
     },
     "blackbox_recover_title_VE_001": {
       "en": "Pick Up, Put Down",
@@ -612,7 +612,7 @@
     },
     "BitZeros_blackbox_VE_Title_001": {
       "en": "Pick Up, Put Down",
-      "tr": "拿起来，放下去\\n[零比特 - 回收黑匣子 VLRT]<EM4>[蓝图]</EM4>"
+      "tr": "拿起来，放下去\\n[零比特 - 回收黑匣子 VLRT][蓝图]"
     },
     "blackbox_recover_title_H_001": {
       "en": "Legendary Info?",
@@ -624,7 +624,7 @@
     },
     "BitZeros_blackbox_H_Title_001": {
       "en": "Legendary Info?",
-      "tr": "传奇信息？\\n[零比特 - 回收黑匣子 HRT]<EM4>[蓝图]</EM4>"
+      "tr": "传奇信息？\\n[零比特 - 回收黑匣子 HRT][蓝图]"
     },
     "recovery_title": {
       "en": "Getting Our Gear Back",
@@ -632,7 +632,7 @@
     },
     "BitZeros_RecoverItem_Generic_Title_001": {
       "en": "Bleeding Edge Tech",
-      "tr": "前沿科技\\n[零比特 - 物品取回]<EM4>[蓝图]</EM4>"
+      "tr": "前沿科技\\n[零比特 - 物品取回][蓝图]"
     },
     "BitZeros_RecoverItem_Generic_Title_002": {
       "en": "Turning the Tables",
@@ -644,7 +644,7 @@
     },
     "DeadSaints_RecoverItem_Generic_Title_001": {
       "en": "Getting Our Gear Back",
-      "tr": "把咱们的装备拿回来\\n[死亡圣徒 - 物品取回]<EM4>[蓝图]</EM4>"
+      "tr": "把咱们的装备拿回来\\n[死亡圣徒 - 物品取回][蓝图]"
     },
     "DeadSaints_RecoverItem_Generic_Title_002": {
       "en": "Stash Retrieval",
@@ -656,7 +656,7 @@
     },
     "Headhunters_defend_XT_VH_title_001": {
       "en": "Block XenoThreat Expansion",
-      "tr": "封锁异种威胁的扩张（极高风险 VHRT）<EM4>[蓝图]</EM4>"
+      "tr": "封锁异种威胁的扩张（极高风险 VHRT）[蓝图]"
     },
     "headhunters_bombingrun_M_CFP_title_001": {
       "en": "Blow Up Citizens for Prosperity Fuel Reserves",
@@ -668,7 +668,7 @@
     },
     "northrock_bounty_fps_title_001": {
       "en": "Bounty Assignment: [TARGET] (HRT)",
-      "tr": "赏金任务：[TARGET]（高风险目标 HRT）<EM4>[蓝图]</EM4>"
+      "tr": "赏金任务：[TARGET]（高风险目标 HRT）[蓝图]"
     },
     "headhunters_defendship_multi_HRT_PA_title_001": {
       "en": "Bring Down the Hammer",
@@ -684,11 +684,11 @@
     },
     "cfp_defend_regionshift_title_001": {
       "en": "Call for Help: [LOCATION]",
-      "tr": "请求帮助：[LOCATION]<EM4>[蓝图]</EM4>"
+      "tr": "请求帮助：[LOCATION][蓝图]"
     },
     "cfp_ChainElimAll_3C_ElimSpec_XTAttack_VH_title_001": {
       "en": "Campaign to reclaim XenoThreat outposts",
-      "tr": "夺回异种威胁前哨站战役<EM4>[蓝图]</EM4>"
+      "tr": "夺回异种威胁前哨站战役[蓝图]"
     },
     "mg_miles_capturegang_title_006": {
       "en": "Capture Arlington Gang Leader Maltrox Arlington",
@@ -716,7 +716,7 @@
     },
     "Foxwell_EliminateAll_NonHostiles_title_001": {
       "en": "Carefully Clear Site",
-      "tr": "谨慎清理站点<EM4>[蓝图]</EM4>"
+      "tr": "谨慎清理站点[蓝图]"
     },
     "LingFamily_HaulCargo_AToB_Intro_title": {
       "en": "Cargo Hauling Opportunity with Ling Hauling",
@@ -728,7 +728,7 @@
     },
     "CFP_RecoverCargo_VeryHard_Title": {
       "en": "Cargo Shipment Must Be Completed",
-      "tr": "货物运输必须完成\\n[繁荣公民 - 取回货物 VHRT]<EM4>[蓝图]</EM4>"
+      "tr": "货物运输必须完成\\n[繁荣公民 - 取回货物 VHRT][蓝图]"
     },
     "RedWind_HaulCargo_AToB_ASD_title": {
       "en": "Cargo Transfer from Shuttered Facility",
@@ -816,7 +816,7 @@
     },
     "cfp_defendship_multi_SRT_title_001": {
       "en": "Come to Aid of Convoy",
-      "tr": "来支援运输舰队\\n[繁荣公民 - 保卫飞船 ERT]<EM4>[蓝图]</EM4>"
+      "tr": "来支援运输舰队\\n[繁荣公民 - 保卫飞船 ERT][蓝图]"
     },
     "LingFamily_RecoverCargo_Hard_Title": {
       "en": "Complete Stranded Ling Shipment",
@@ -828,7 +828,7 @@
     },
     "cfp_defendship_multi_HRT_title_001": {
       "en": "Convoy Caught in Brutal Attack",
-      "tr": "船队遭遇残酷袭击\\n[繁荣公民 - 保卫飞船 HRT]<EM4>[蓝图]</EM4>"
+      "tr": "船队遭遇残酷袭击\\n[繁荣公民 - 保卫飞船 HRT][蓝图]"
     },
     "spacecollect_cargo_title_VE_01": {
       "en": "Red Wind Package Recovery",
@@ -928,7 +928,7 @@
     },
     "CFP_RecoverCargo_Hard_Title": {
       "en": "Crucial Supplies Need Retrieving",
-      "tr": "关键物资亟待回收\\n[繁荣公民 - 取回货物 HRT]<EM4>[蓝图]</EM4>"
+      "tr": "关键物资亟待回收\\n[繁荣公民 - 取回货物 HRT][蓝图]"
     },
     "Highpoint_KillAnimals_MultiType_M_title": {
       "en": "Cull Invasive Creatures",
@@ -960,7 +960,7 @@
     },
     "BitZeros_blackbox_Intro_Title_001": {
       "en": "Data Transfer",
-      "tr": "数据转移\\n[零比特 - 回收黑匣子 入门]<EM4>[蓝图]</EM4>"
+      "tr": "数据转移\\n[零比特 - 回收黑匣子 入门][蓝图]"
     },
     "DataHeist_SvR_DataTransfer": {
       "en": "Data Transfer",
@@ -996,23 +996,23 @@
     },
     "headhunters_eliminateall_retrievestolen_base_Generic_M_title_001": {
       "en": "Death and cargo",
-      "tr": "死亡与货物<EM4>[蓝图]</EM4>"
+      "tr": "死亡与货物[蓝图]"
     },
     "headhunters_EliminateSpecific_Asteroid_Generic_VE_title_001": {
       "en": "Deep space hit",
-      "tr": "深空打击<EM4>[蓝图]</EM4>"
+      "tr": "深空打击[蓝图]"
     },
     "cfp_defend-criminals_title_001": {
       "en": "Defend [LOCATION] from Outlaws",
-      "tr": "从不法分子手中防守 [LOCATION]<EM4>[蓝图]</EM4>"
+      "tr": "从不法分子手中防守 [LOCATION][蓝图]"
     },
     "Intersec_DefendShip_Title_Easy_001": {
       "en": "Defend InterSec Operative",
-      "tr": "保卫互安特工\\n[互安防务 - 保卫飞船 LRT]<EM4>[蓝图]</EM4>"
+      "tr": "保卫互安特工\\n[互安防务 - 保卫飞船 LRT][蓝图]"
     },
     "cfp_eliminateall_fromCFP_hh_M_title_001": {
       "en": "Defenders needed against Headhunters",
-      "tr": "需要抵抗者以对抗猎头帮<EM4>[蓝图]</EM4>"
+      "tr": "需要抵抗者以对抗猎头帮[蓝图]"
     },
     "Headhunters_EliminateAll_OLP_H_title_001": {
       "en": "Deliver a Message",
@@ -1024,23 +1024,23 @@
     },
     "Foxwell_DestroyNarcotics_H_title_001": {
       "en": "Destroy Dangerous Drugs",
-      "tr": "摧毁危险毒品<EM4>[蓝图]</EM4>"
+      "tr": "摧毁危险毒品[蓝图]"
     },
     "cfp_sabotage_servers_M_HH_title_001": {
       "en": "Destroy Headhunter Stolen Data",
-      "tr": "摧毁猎头帮盗取的数据<EM4>[蓝图]</EM4>"
+      "tr": "摧毁猎头帮盗取的数据[蓝图]"
     },
     "Foxwell_DestroyNarcotics_M_title_001": {
       "en": "Destroy Illegal Drugs",
-      "tr": "摧毁非法毒品<EM4>[蓝图]</EM4>"
+      "tr": "摧毁非法毒品[蓝图]"
     },
     "cfp_sabotage_VH_title_001": {
       "en": "Destroy Outlaw Data Servers",
-      "tr": "摧毁不法分子的数据服务器<EM4>[蓝图]</EM4>"
+      "tr": "摧毁不法分子的数据服务器[蓝图]"
     },
     "cfp_sabotage_servers_VH_XT_title_001": {
       "en": "Destroy XenoThreat Data Servers",
-      "tr": "摧毁异种威胁数据服务器<EM4>[蓝图]</EM4>"
+      "tr": "摧毁异种威胁数据服务器[蓝图]"
     },
     "headhunters_bombingrun_VH_XT_title_001": {
       "en": "Destroy XenoThreat Fuel Reserves",
@@ -1048,7 +1048,7 @@
     },
     "cfp_sabotage_servers_H_XT_title_001": {
       "en": "Destroy XenoThreat Logistic Data",
-      "tr": "摧毁异种威胁的物流数据<EM4>[蓝图]</EM4>"
+      "tr": "摧毁异种威胁的物流数据[蓝图]"
     },
     "CFP_SabotageRelays_HH_001_Title": {
       "en": "Disable Headhunter Comm Towers",
@@ -1056,7 +1056,7 @@
     },
     "cfp_sabotage_generators_VE_title_001": {
       "en": "Disable Outlaw Stronghold at [LOCATION]",
-      "tr": "关闭位于 [LOCATION] 的不法分子据点<EM4>[蓝图]</EM4>"
+      "tr": "关闭位于 [LOCATION] 的不法分子据点[蓝图]"
     },
     "TheCollector_Recipes_Title_Molten": {
       "en": "Do Lava Suit",
@@ -1072,11 +1072,11 @@
     },
     "headhunters_ChainElimAll_1C_ElimSpec_AttackCFP_M_title_001": {
       "en": "Driving CFP out",
-      "tr": "驱逐繁荣公民<EM4>[蓝图]</EM4>"
+      "tr": "驱逐繁荣公民[蓝图]"
     },
     "headhunters_EliminateSpecific_XenoThreat_title_001": {
       "en": "Drop a XenoThreat",
-      "tr": "放倒一名异种威胁<EM4>[蓝图]</EM4>"
+      "tr": "放倒一名异种威胁[蓝图]"
     },
     "spacecollect_cargo_title_intro_01": {
       "en": "Red Wind Seeking New Couriers",
@@ -1104,11 +1104,11 @@
     },
     "cfp_bombingrun_E_title_001": {
       "en": "Eliminate Fuel Stores",
-      "tr": "摧毁燃料储备<EM4>[蓝图]</EM4>"
+      "tr": "摧毁燃料储备[蓝图]"
     },
     "InterSec_KillShip_Vanduul_Title_Super_001": {
       "en": "Eliminate Vanduul Ship",
-      "tr": "消灭剜度飞船\\n[互安防务 - 击杀飞船 ERT]<EM4>[蓝图]</EM4>"
+      "tr": "消灭剜度飞船\\n[互安防务 - 击杀飞船 ERT][蓝图]"
     },
     "HeadHunters_ShipAmbush_S_title_001": {
       "en": "Elite Op",
@@ -1124,7 +1124,7 @@
     },
     "cfp_sabotage_server_elimiatespecific_HH_title_001": {
       "en": "Eradicate All Traces of Headhunter Data",
-      "tr": "消灭猎头帮数据的所有痕迹<EM4>[蓝图]</EM4>"
+      "tr": "消灭猎头帮数据的所有痕迹[蓝图]"
     },
     "Intersec_ShipWaveAttack_DrawOutBoss_S_Title_001": {
       "en": "Eradicate UEE Threat: [TARGET]",
@@ -1180,7 +1180,7 @@
     },
     "eckhart_defendship_multi_SRT_title_001": {
       "en": "Extremely Dangerous Defense",
-      "tr": "极其危险的保卫\\n[埃克哈特 - 保卫飞船 ERT]<EM4>[蓝图]</EM4>"
+      "tr": "极其危险的保卫\\n[埃克哈特 - 保卫飞船 ERT][蓝图]"
     },
     "TheCollector_Ships_F8C_Milt_TItle": {
       "en": "F8 War Mod",
@@ -1244,7 +1244,7 @@
     },
     "headhunters_ChainElimAll_AttackGen_E_title_001": {
       "en": "Go on the warpath",
-      "tr": "踏上征途<EM4>[蓝图]</EM4>"
+      "tr": "踏上征途[蓝图]"
     },
     "TheCollector_Ships_Drake_Golem_Title": {
       "en": "Golem Rocks",
@@ -1260,11 +1260,11 @@
     },
     "headhunters_eliminateall_xt_title_001": {
       "en": "Green light on [LOCATION]",
-      "tr": "攻击 [LOCATION] 已被批准<EM4>[蓝图]</EM4>"
+      "tr": "攻击 [LOCATION] 已被批准[蓝图]"
     },
     "headhunters_EliminateSpecific_Generic_VH_title_001": {
       "en": "Green light on [TARGET]",
-      "tr": "给 [TARGET] 开绿灯<EM4>[蓝图]</EM4>"
+      "tr": "给 [TARGET] 开绿灯[蓝图]"
     },
     "headhunters_bombingrun_VE_title_001": {
       "en": "Ground The Upstarts",
@@ -1284,11 +1284,11 @@
     },
     "cfp_sabotage_drugs_M_title_001": {
       "en": "Halt Narcotics Operation",
-      "tr": "禁毒行动<EM4>[蓝图]</EM4>"
+      "tr": "禁毒行动[蓝图]"
     },
     "Intersec_DefendShip_Vanduul_Title_Super_001": {
       "en": "Handle Vanduul Attack on Ship",
-      "tr": "应对剜度对飞船的攻击\\n[互安防务 - 保卫飞船 ERT]<EM4>[蓝图]</EM4>"
+      "tr": "应对剜度对飞船的攻击\\n[互安防务 - 保卫飞船 ERT][蓝图]"
     },
     "headhunters_HaulCargo_RegionLink_title_001": {
       "en": "Hauling ask.",
@@ -1296,7 +1296,7 @@
     },
     "cfp_defend_headhunters_H_title_001": {
       "en": "Headhunter attack on [LOCATION]",
-      "tr": "猎头帮袭击 [LOCATION]<EM4>[蓝图]</EM4>"
+      "tr": "猎头帮袭击 [LOCATION][蓝图]"
     },
     "headhunters_defendship_LRT_PA_title_001": {
       "en": "Headhunter Needs Help",
@@ -1320,7 +1320,7 @@
     },
     "cfp_ChainElimAll_1C_HHAttack_M_title_001": {
       "en": "Help defend [LOCATION] from Headhunters",
-      "tr": "帮助防御 [LOCATION] 免受猎头帮的攻击<EM4>[蓝图]</EM4>"
+      "tr": "帮助防御 [LOCATION] 免受猎头帮的攻击[蓝图]"
     },
     "Headhunters_DefendLocation_H_Title_001": {
       "en": "Help Headhunters at [LOCATION]",
@@ -1332,7 +1332,7 @@
     },
     "Foxwell_EliminateAll_Allies_title_001": {
       "en": "Help Protect Site",
-      "tr": "协助保护站点<EM4>[蓝图]</EM4>"
+      "tr": "协助保护站点[蓝图]"
     },
     "TheCollector_Recipes_Title_Hush": {
       "en": "Hide Snow Suit",
@@ -1348,7 +1348,7 @@
     },
     "eckhart_defendship_multi_HRT_title_001": {
       "en": "High-Risk Ship Encounter",
-      "tr": "高风险飞船冲突\\n[埃克哈特 - 保卫飞船 HRT]<EM4>[蓝图]</EM4>"
+      "tr": "高风险飞船冲突\\n[埃克哈特 - 保卫飞船 HRT][蓝图]"
     },
     "Eckhart_ShipAmbush_S_title": {
       "en": "Highly Dangerous Ambush",
@@ -1356,7 +1356,7 @@
     },
     "headhunters_ChainElimAll_3C_ElimSpec_AttackCFP_VH_title_001": {
       "en": "Hit a CFP Complex",
-      "tr": "攻击一个繁荣公民建筑群<EM4>[蓝图]</EM4>"
+      "tr": "攻击一个繁荣公民建筑群[蓝图]"
     },
     "headhunters_killship_cfp_mrt_title_001": {
       "en": "Hit a CFP Ship",
@@ -1364,15 +1364,15 @@
     },
     "headhunters_ChainElimAll_Boss_XenoThreat_VH_title_001": {
       "en": "Hit on XenoThreat command",
-      "tr": "攻击异种威胁指挥部<EM4>[蓝图]</EM4>"
+      "tr": "攻击异种威胁指挥部[蓝图]"
     },
     "headhunters_EliminateAll_XenoThreat_H_title_001": {
       "en": "Hit XenoThreat at [LOCATION]",
-      "tr": "攻击 [LOCATION] 的异种威胁<EM4>[蓝图]</EM4>"
+      "tr": "攻击 [LOCATION] 的异种威胁[蓝图]"
     },
     "headhunters_eliminateall_cfp_E_title_001": {
       "en": "Hitting a CFP site",
-      "tr": "攻击繁荣公民的站点<EM4>[蓝图]</EM4>"
+      "tr": "攻击繁荣公民的站点[蓝图]"
     },
     "TheCollector_Recipes_Title_NonePistol": {
       "en": "Hot Shot",
@@ -1404,7 +1404,7 @@
     },
     "CFP_RecoverCargo_Easy_Title": {
       "en": "Intercepted Supply Run",
-      "tr": "供应被中断\\n[繁荣公民 - 取回货物 LRT]<EM4>[蓝图]</EM4>"
+      "tr": "供应被中断\\n[繁荣公民 - 取回货物 LRT][蓝图]"
     },
     "RAIN_intro_name_01": {
       "en": "Interested in Building a Better Future?",
@@ -1436,7 +1436,7 @@
     },
     "Hockrow_FacilityDelve_P3M1_title": {
       "en": "Jorrit Dossier: Project Hyperion",
-      "tr": "约里特卷宗：海伯利安项目<EM4>[蓝图]</EM4>"
+      "tr": "约里特卷宗：海伯利安项目[蓝图]"
     },
     "Hockrow_FacilityDelve_P2M1_title": {
       "en": "Jorrit Dossier: Retrieve Energy Anomaly Data",
@@ -1452,19 +1452,19 @@
     },
     "Hockrow_FacilityDelve_P2M1_Repeat_title": {
       "en": "Jorrit Dossier: Updated Energy Anomaly Data",
-      "tr": "约里特卷宗：更新能量异常数据<EM4>[蓝图]</EM4>"
+      "tr": "约里特卷宗：更新能量异常数据[蓝图]"
     },
     "Hockrow_FacilityDelve_P2M4_Repeat_title": {
       "en": "Jorrit Dossier: Updated Power Usage Data",
-      "tr": "约里特卷宗：更新能源用量数据<EM4>[蓝图]</EM4>"
+      "tr": "约里特卷宗：更新能源用量数据[蓝图]"
     },
     "Hockrow_FacilityDelve_P2M2_Repeat_title": {
       "en": "Jorrit Dossier: Updated Security Data",
-      "tr": "约里特卷宗：更新安保数据<EM4>[蓝图]</EM4>"
+      "tr": "约里特卷宗：更新安保数据[蓝图]"
     },
     "Hockrow_FacilityDelve_P2M3_Repeat_title": {
       "en": "Jorrit Dossier: Updated Seismic Data",
-      "tr": "约里特卷宗：更新地震波数据<EM4>[蓝图]</EM4>"
+      "tr": "约里特卷宗：更新地震波数据[蓝图]"
     },
     "BHG_Certification_Hard_Title": {
       "en": "Journeyman Tracker License Certification",
@@ -1480,11 +1480,11 @@
     },
     "headhunters_EliminateSpecific_Generic_E_title_001": {
       "en": "Kill the king",
-      "tr": "刺王杀驾<EM4>[蓝图]</EM4>"
+      "tr": "刺王杀驾[蓝图]"
     },
     "Foxwell_DestroyNarcotics_E_title_001": {
       "en": "Knock Out New Drug Op",
-      "tr": "清除新毒品行动<EM4>[蓝图]</EM4>"
+      "tr": "清除新毒品行动[蓝图]"
     },
     "headhunters_sabotage_generators_multi_M_title_001": {
       "en": "Knock Power Out",
@@ -1580,7 +1580,7 @@
     },
     "headhunters_eliminateall_cfp_title_001": {
       "en": "Looking for a little revenge",
-      "tr": "想小小地报复一下<EM4>[蓝图]</EM4>"
+      "tr": "想小小地报复一下[蓝图]"
     },
     "Headhunters_SecurityPatrol_H_Title_001": {
       "en": "Looking For Trouble",
@@ -1756,11 +1756,11 @@
     },
     "headhunters_EliminateSpecific_CFP_M_title_001": {
       "en": "Need a CFP taken down",
-      "tr": "需要干掉一个繁荣公民<EM4>[蓝图]</EM4>"
+      "tr": "需要干掉一个繁荣公民[蓝图]"
     },
     "headhunters_EliminateSpecific_Asteroid_Generic_M_title_001": {
       "en": "Need a death at [LOCATION]",
-      "tr": "需要在 [LOCATION] 发生一起死亡事件<EM4>[蓝图]</EM4>"
+      "tr": "需要在 [LOCATION] 发生一起死亡事件[蓝图]"
     },
     "cfp_HaulCargo_RegionLink_title_001": {
       "en": "Need a Hauler",
@@ -1768,19 +1768,19 @@
     },
     "headhunters_eliminateall_base_Generic_E_title_001": {
       "en": "Need a hitter",
-      "tr": "需要打手<EM4>[蓝图]</EM4>"
+      "tr": "需要打手[蓝图]"
     },
     "cfp_ChainElimAll_3C_ElimSpec_GenAttack_M_title_001": {
       "en": "Need multiple CFP outposts retaken",
-      "tr": "需要夺回多个繁荣公民前哨站<EM4>[蓝图]</EM4>"
+      "tr": "需要夺回多个繁荣公民前哨站[蓝图]"
     },
     "RAIN_collectresources_single_OLP_name_01": {
       "en": "Need Resource for Research",
-      "tr": "需要研究资源<EM4>[蓝图]</EM4>"
+      "tr": "需要研究资源[蓝图]"
     },
     "headhunters_EliminateSpecific_Generic_M_title_001": {
       "en": "Need someone taken out",
-      "tr": "需要有人被处理掉<EM4>[蓝图]</EM4>"
+      "tr": "需要有人被处理掉[蓝图]"
     },
     "CFP_ShipWaveAttack_ClearHostiles_Title_H_001": {
       "en": "Neutralize Dangerous Criminal Fleet",
@@ -1788,15 +1788,15 @@
     },
     "Intersec_KillShip_Title_Medium_001": {
       "en": "Neutralize UEE Threat: [TARGET]",
-      "tr": "消除 UEE 威胁：[TARGET]\\n[互安防务 - 击杀飞船 MRT]<EM4>[蓝图]</EM4>"
+      "tr": "消除 UEE 威胁：[TARGET]\\n[互安防务 - 击杀飞船 MRT][蓝图]"
     },
     "Intersec_KillShip_Vanduul_Title_VeryHard_001": {
       "en": "Neutralize Vanduul Target",
-      "tr": "消灭剜度目标\\n[互安防务 - 击杀飞船 剜度 VHRT]<EM4>[蓝图]</EM4>"
+      "tr": "消灭剜度目标\\n[互安防务 - 击杀飞船 剜度 VHRT][蓝图]"
     },
     "Intersec_KillShip_Title_Intro_001": {
       "en": "New Defense Contract: [TARGET] Elimination",
-      "tr": "新防御合约：消灭 [TARGET]\\n[互安防务 - 击杀飞船 入门]<EM4>[蓝图]</EM4>"
+      "tr": "新防御合约：消灭 [TARGET]\\n[互安防务 - 击杀飞船 入门][蓝图]"
     },
     "searchbodyspace_title_intro": {
       "en": "NEW HIRE: Locate Missing Person",
@@ -1840,19 +1840,19 @@
     },
     "Intersec_DefendShip_Title_Medium_001": {
       "en": "Operative Extraction",
-      "tr": "人员撤离\\n[互安防务 - 保卫飞船 MRT]<EM4>[蓝图]</EM4>"
+      "tr": "人员撤离\\n[互安防务 - 保卫飞船 MRT][蓝图]"
     },
     "foxwell_DefendShip_M_title_001": {
       "en": "Orange Level Contract: [SHIP] Needs Assistance",
-      "tr": "橙色级别合约：[SHIP] 需要援助<EM4>[蓝图]</EM4>"
+      "tr": "橙色级别合约：[SHIP] 需要援助[蓝图]"
     },
     "Foxwell_bombingrun_H_title_001": {
       "en": "Orange Level Contract: Destroy Outlaw Infrastructure",
-      "tr": "橙色级别合约：摧毁非法基础设施\\n[福克斯韦尔 - 轰炸 HRT]<EM4>[蓝图]</EM4>"
+      "tr": "橙色级别合约：摧毁非法基础设施\\n[福克斯韦尔 - 轰炸 HRT][蓝图]"
     },
     "Foxwell_ShipWaveAttack_ClearHostiles_Title_M_001": {
       "en": "Orange Level Contract: Destroy Outlaw Threat",
-      "tr": "橙色级别合约：铲除不法分子威胁\\n[福克斯韦尔 - 击杀飞船 MRT 多波次]<EM4>[蓝图]</EM4>"
+      "tr": "橙色级别合约：铲除不法分子威胁\\n[福克斯韦尔 - 击杀飞船 MRT 多波次][蓝图]"
     },
     "destroyprobelegal_title": {
       "en": "Orange Level Contract: Handle Security Threat",
@@ -1860,43 +1860,43 @@
     },
     "Foxwell_destroyprobe_M_name_001": {
       "en": "Orange Level Contract: Handle Security Threat",
-      "tr": "橙色级别合约：处理安全威胁\\n[福克斯韦尔 - 摧毁监视器 MRT]<EM4>[蓝图]</EM4>"
+      "tr": "橙色级别合约：处理安全威胁\\n[福克斯韦尔 - 摧毁监视器 MRT][蓝图]"
     },
     "Foxwell_SecurityPatrol_H_Title_001": {
       "en": "Orange Level Contract: Potential Security Threat",
-      "tr": "橙色级别合约：潜在安全威胁<EM4>[蓝图]</EM4>"
+      "tr": "橙色级别合约：潜在安全威胁[蓝图]"
     },
     "Foxwell_DefendLocation_H_Title_001": {
       "en": "Orange Level Contract: Protect Our Client’s Interests",
-      "tr": "橙色级别合约：保护我们客户的利益<EM4>[蓝图]</EM4>"
+      "tr": "橙色级别合约：保护我们客户的利益[蓝图]"
     },
     "Foxwell_ShipAmbush_H_title_001": {
       "en": "Orange Level Contract: Return the Favor",
-      "tr": "橙色级别合约：以牙还牙<EM4>[蓝图]</EM4>"
+      "tr": "橙色级别合约：以牙还牙[蓝图]"
     },
     "Foxwell_SecurityPatrol_M_Title_001": {
       "en": "Orange Level Contract: Security Patrol",
-      "tr": "橙色级别合约：安保巡逻<EM4>[蓝图]</EM4>"
+      "tr": "橙色级别合约：安保巡逻[蓝图]"
     },
     "Foxwell_DefendLocation_M_Title_001": {
       "en": "Orange Level Contract: Ship Protection Needed",
-      "tr": "橙色级别合约：需要飞船保护<EM4>[蓝图]</EM4>"
+      "tr": "橙色级别合约：需要飞船保护[蓝图]"
     },
     "Foxwell_ShipAmbush_M_title_001": {
       "en": "Orange Level Contract: Spring a Trap",
-      "tr": "橙色级别合约：设下圈套<EM4>[蓝图]</EM4>"
+      "tr": "橙色级别合约：设下圈套[蓝图]"
     },
     "Foxwell_ShipWaveAttack_ClearHostiles_Title_H_001": {
       "en": "Orange Level Contract: Take Out Criminal Fleet",
-      "tr": "橙色级别合约：端掉犯罪舰队\\n[福克斯韦尔 - 击杀飞船 HRT 多波次]<EM4>[蓝图]</EM4>"
+      "tr": "橙色级别合约：端掉犯罪舰队\\n[福克斯韦尔 - 击杀飞船 HRT 多波次][蓝图]"
     },
     "Foxwell_bombingrun_M_title_001": {
       "en": "Orange Level Contract: Take Out Fuel Supplies",
-      "tr": "橙色级别合约：摧毁燃料补给\\n[福克斯韦尔 - 轰炸 MRT]<EM4>[蓝图]</EM4>"
+      "tr": "橙色级别合约：摧毁燃料补给\\n[福克斯韦尔 - 轰炸 MRT][蓝图]"
     },
     "cfp_ChainElimAll_2C_ElimSpec_GenAttack_M_title_001": {
       "en": "Outlaw attack at [LOCATION]",
-      "tr": "不法分子在攻击 [LOCATION]<EM4>[蓝图]</EM4>"
+      "tr": "不法分子在攻击 [LOCATION][蓝图]"
     },
     "headhunters_bombingrun_S_title_001": {
       "en": "Outsmarting our Enemies",
@@ -1904,7 +1904,7 @@
     },
     "headhunters_EliminateSpecific_CFP_H_title_001": {
       "en": "Paid Target in CFP",
-      "tr": "繁荣公民里的付费目标<EM4>[蓝图]</EM4>"
+      "tr": "繁荣公民里的付费目标[蓝图]"
     },
     "CFP_SecurityPatrol_VH_Title_001": {
       "en": "Patrol Dangerous Outlaw Sector",
@@ -1912,7 +1912,7 @@
     },
     "InterSec_SecurityPatrol_H_Title_001": {
       "en": "Patrol Dangerous Sector",
-      "tr": "巡逻危险区域\\n[互安防务 - 巡逻 HRT]<EM4>[蓝图]</EM4>"
+      "tr": "巡逻危险区域\\n[互安防务 - 巡逻 HRT][蓝图]"
     },
     "CFP_SecurityPatrol_M_Title_001": {
       "en": "Patrol Dangerous Travel Lanes",
@@ -1932,7 +1932,7 @@
     },
     "InterSec_SecurityPatrol_VH_Title_001": {
       "en": "Patrol to Prevent Possible Attack",
-      "tr": "巡逻以防范可能的袭击\\n[互安防务 - 巡逻 VHRT]<EM4>[蓝图]</EM4>"
+      "tr": "巡逻以防范可能的袭击\\n[互安防务 - 巡逻 VHRT][蓝图]"
     },
     "CFP_SecurityPatrol_VE_Title_001": {
       "en": "Patrol Travel Lanes",
@@ -1940,7 +1940,7 @@
     },
     "InterSec_SecurityPatrol_S_Title_001": {
       "en": "Patrol Vanduul Hunting Ground",
-      "tr": "巡逻剜度狩猎场\\n[互安防务 - 巡逻 ERT]<EM4>[蓝图]</EM4>"
+      "tr": "巡逻剜度狩猎场\\n[互安防务 - 巡逻 ERT][蓝图]"
     },
     "TheCollector_Ships_Peregrine_TItle": {
       "en": "Peregrine Wikelo Mod",
@@ -1948,19 +1948,19 @@
     },
     "cfp_defendship_VLRT_title_001": {
       "en": "Pilot in Distress",
-      "tr": "危机中的飞行员\\n[繁荣公民 - 保卫飞船 VLRT]<EM4>[蓝图]</EM4>"
+      "tr": "危机中的飞行员\\n[繁荣公民 - 保卫飞船 VLRT][蓝图]"
     },
     "cfp_defendship_LRT_title_001": {
       "en": "Pilot Seeking Combat Support",
-      "tr": "飞行员寻求战斗支援\\n[繁荣公民 - 保卫飞船 LRT]<EM4>[蓝图]</EM4>"
+      "tr": "飞行员寻求战斗支援\\n[繁荣公民 - 保卫飞船 LRT][蓝图]"
     },
     "Intersec_DefendShip_Vanduul_Title_VeryHard_001": {
       "en": "Pilot Under Fire From Vanduul",
-      "tr": "遭到剜度攻击的飞行员\\n[互安防务 - 保卫飞船 VHRT]<EM4>[蓝图]</EM4>"
+      "tr": "遭到剜度攻击的飞行员\\n[互安防务 - 保卫飞船 VHRT][蓝图]"
     },
     "headhunters_EliminateSpecific_Defector_title_001": {
       "en": "Plug a traitor",
-      "tr": "干掉叛徒<EM4>[蓝图]</EM4>"
+      "tr": "干掉叛徒[蓝图]"
     },
     "Hockrow_searchbody_space_E_Title_001": {
       "en": "Potential Assassin Victim: [TARGET]",
@@ -1968,11 +1968,11 @@
     },
     "Foxwell_EliminateSpecific_NonHostiles_title_001": {
       "en": "Precision Strike on [TARGET]",
-      "tr": "精确打击 [TARGET]<EM4>[蓝图]</EM4>"
+      "tr": "精确打击 [TARGET][蓝图]"
     },
     "Intersec_KillShip_Title_Hard_001": {
       "en": "Preemptive Strike On [TARGET]",
-      "tr": "先发打击 [TARGET]\\n[互安防务 - 击杀飞船 HRT]<EM4>[蓝图]</EM4>"
+      "tr": "先发打击 [TARGET]\\n[互安防务 - 击杀飞船 HRT][蓝图]"
     },
     "bhg_bounty_title_FPS_intro": {
       "en": "Preliminary Bounty: [TARGET]",
@@ -1996,15 +1996,15 @@
     },
     "cfp_defend-xenothreat_title_001": {
       "en": "Protect [LOCATION] from XenoThreat Attack",
-      "tr": "保护 [LOCATION] 抵御异种威胁的攻击<EM4>[蓝图]</EM4>"
+      "tr": "保护 [LOCATION] 抵御异种威胁的攻击[蓝图]"
     },
     "cfp_defend-xenothreat_title_003": {
       "en": "Protect [LOCATION] from XenoThreat Incursion",
-      "tr": "保护 [LOCATION] 抵御异种威胁的入侵<EM4>[蓝图]</EM4>"
+      "tr": "保护 [LOCATION] 抵御异种威胁的入侵[蓝图]"
     },
     "cfp_defend-xenothreat_title_002": {
       "en": "Protect [LOCATION] from XenoThreat Raid",
-      "tr": "保护 [LOCATION] 抵御异种威胁的袭击<EM4>[蓝图]</EM4>"
+      "tr": "保护 [LOCATION] 抵御异种威胁的袭击[蓝图]"
     },
     "EckhartSecurity_Defend_M_Title_001": {
       "en": "Protect Location",
@@ -2016,11 +2016,11 @@
     },
     "Intersec_DefendShip_Title_Hard_001": {
       "en": "Protect Vital Asset",
-      "tr": "保护重要资产\\n[互安防务 - 保卫飞船 HRT]<EM4>[蓝图]</EM4>"
+      "tr": "保护重要资产\\n[互安防务 - 保卫飞船 HRT][蓝图]"
     },
     "cfp_eliminateall_fromCFP_XT_M_title_001": {
       "en": "Protecting outpost from XenoThreat",
-      "tr": "保护前哨站免受异种威胁攻击<EM4>[蓝图]</EM4>"
+      "tr": "保护前哨站免受异种威胁攻击[蓝图]"
     },
     "cfp_EliminateSpecific_Generic_E_title_001": {
       "en": "Protection against [TARGET]",
@@ -2052,11 +2052,11 @@
     },
     "shubin_rockcracker_solo_title_01": {
       "en": "QV Breaker Station Mining Rights (Exclusive)",
-      "tr": "QV 碎岩站采矿权（独占）<EM4>[蓝图]</EM4>"
+      "tr": "QV 碎岩站采矿权（独占）[蓝图]"
     },
     "shubin_rockcracker_pvp_title_01": {
       "en": "QV Breaker Station Mining Rights (Shared)",
-      "tr": "QV 碎岩站采矿权（共享）<EM4>[蓝图]</EM4>"
+      "tr": "QV 碎岩站采矿权（共享）[蓝图]"
     },
     "headhunters_defendship_multi_VHRT_PA_title_001": {
       "en": "Rally to Help Clips Convoy",
@@ -2068,19 +2068,19 @@
     },
     "cfp_eliminateall_hh_E_title_001": {
       "en": "Reclaim Headhunter Outpost",
-      "tr": "夺回猎头帮前哨站<EM4>[蓝图]</EM4>"
+      "tr": "夺回猎头帮前哨站[蓝图]"
     },
     "cfp_eliminateall_XT_E_title_001": {
       "en": "Reclaim XenoThreat Outpost",
-      "tr": "夺回异种威胁前哨站<EM4>[蓝图]</EM4>"
+      "tr": "夺回异种威胁前哨站[蓝图]"
     },
     "cfp_ChainElimAll_3C_ElimSpec_HHAttack_VH_title_001": {
       "en": "Reclaiming Clusters from Headhunters",
-      "tr": "从猎头帮手里夺回前哨站集群<EM4>[蓝图]</EM4>"
+      "tr": "从猎头帮手里夺回前哨站集群[蓝图]"
     },
     "cfp_ChainElimAll_2C_ElimSpec_XTAttack_H_title_001": {
       "en": "Reclaiming Outposts from XenoThreat",
-      "tr": "从异种威胁手中夺回前哨站<EM4>[蓝图]</EM4>"
+      "tr": "从异种威胁手中夺回前哨站[蓝图]"
     },
     "BHG_ShipWaveAttack_DrawOutBoss_S_Title_001": {
       "en": "Reclusive Bounty: [TARGET] | Extreme Risk",
@@ -2096,11 +2096,11 @@
     },
     "InterSec_ResourceGathering_Cryopods_Title": {
       "en": "Recover Vanduul Corpses",
-      "tr": "取回剜度尸体\\n[互安防务 - 资源收集 剜度尸体]<EM4>[蓝图]</EM4>"
+      "tr": "取回剜度尸体\\n[互安防务 - 资源收集 剜度尸体][蓝图]"
     },
     "InterSec_ResourceGathering_Tech_Title": {
       "en": "Recover Vanduul Tech",
-      "tr": "取回剜度科技\\n[互安防务 - 资源收集 剜度科技]<EM4>[蓝图]</EM4>"
+      "tr": "取回剜度科技\\n[互安防务 - 资源收集 剜度科技][蓝图]"
     },
     "Covalex_RecoverCargo_Super_Title": {
       "en": "Recover VIP Covalex Shipment",
@@ -2108,7 +2108,7 @@
     },
     "CFP_RecoverCargo_Medium_Title": {
       "en": "Recovering Valuable Supplies",
-      "tr": "回收珍贵物资\\n[繁荣公民 - 取回货物 MRT]<EM4>[蓝图]</EM4>"
+      "tr": "回收珍贵物资\\n[繁荣公民 - 取回货物 MRT][蓝图]"
     },
     "TheCollector_Recipes_Title_ApolloSkin": {
       "en": "Red Fight Apollo",
@@ -2124,51 +2124,51 @@
     },
     "Foxwell_ShipAmbush_VH_title_001": {
       "en": "Red Level Contract: Ambush Attack Squad",
-      "tr": "红色级别合约：伏击攻击小队<EM4>[蓝图]</EM4>"
+      "tr": "红色级别合约：伏击攻击小队[蓝图]"
     },
     "Foxwell_HaulCargo_MultiToSingle_title_01": {
       "en": "Red Level Contract: Clear PAFs, Recover Cargo, and Deliver to OLP",
-      "tr": "红色级别合约：清理平台校准设施，回收货物并送至轨道激光平台<EM4>[蓝图]</EM4>"
+      "tr": "红色级别合约：清理平台校准设施，回收货物并送至轨道激光平台[蓝图]"
     },
     "Foxwell_bombingrun_S_title_001": {
       "en": "Red Level Contract: Destroy Outlaw Infrastructure",
-      "tr": "红色级别合约：摧毁非法基础设施\\n[福克斯韦尔 - 轰炸 ERT]<EM4>[蓝图]</EM4>"
+      "tr": "红色级别合约：摧毁非法基础设施\\n[福克斯韦尔 - 轰炸 ERT][蓝图]"
     },
     "Foxwell_bombingrun_VH_title_001": {
       "en": "Red Level Contract: Fuel Container Demolition",
-      "tr": "红色级别合约：拆毁燃料罐\\n[福克斯韦尔 - 轰炸 VHRT]<EM4>[蓝图]</EM4>"
+      "tr": "红色级别合约：拆毁燃料罐\\n[福克斯韦尔 - 轰炸 VHRT][蓝图]"
     },
     "Foxwell_SecurityPatrol_VH_Title_001": {
       "en": "Red Level Contract: High-Risk Security Patrol",
-      "tr": "红色级别合约：高风险安保巡逻<EM4>[蓝图]</EM4>"
+      "tr": "红色级别合约：高风险安保巡逻[蓝图]"
     },
     "Foxwell_HaulCargo_AToB_PAF_title_01": {
       "en": "Red Level Contract: Recoup Stolen Cargo Haul",
-      "tr": "红色级别合约：追回被盗货物<EM4>[蓝图]</EM4>"
+      "tr": "红色级别合约：追回被盗货物[蓝图]"
     },
     "Foxwell_HaulCargo_AToB_OLP_title_01": {
       "en": "Red Level Contract: Retrieve Cargo Haul",
-      "tr": "红色级别合约：回收货物<EM4>[蓝图]</EM4>"
+      "tr": "红色级别合约：回收货物[蓝图]"
     },
     "Foxwell_DefendLocation_VH_Title_001": {
       "en": "Red Level Contract: Save Ships at [LOCATION]",
-      "tr": "红色级别合约：营救 [LOCATION] 的飞船<EM4>[蓝图]</EM4>"
+      "tr": "红色级别合约：营救 [LOCATION] 的飞船[蓝图]"
     },
     "Foxwell_SecurityPatrol_S_Title_001": {
       "en": "Red Level Contract: Secure Threatened Space",
-      "tr": "红色级别合约：保卫受威胁空域<EM4>[蓝图]</EM4>"
+      "tr": "红色级别合约：保卫受威胁空域[蓝图]"
     },
     "foxwell_DefendShip_H_title_001": {
       "en": "Red Level Contract: Ship Under Attack",
-      "tr": "红色级别合约：飞船遭到攻击<EM4>[蓝图]</EM4>"
+      "tr": "红色级别合约：飞船遭到攻击[蓝图]"
     },
     "Foxwell_DefendLocation_S_Title_001": {
       "en": "Red Level Contract: Support VIP Clients",
-      "tr": "红色级别合约：支援 VIP 客户<EM4>[蓝图]</EM4>"
+      "tr": "红色级别合约：支援 VIP 客户[蓝图]"
     },
     "Foxwell_ShipAmbush_S_title_001": {
       "en": "Red Level Contract: Surprise Attack",
-      "tr": "红色级别合约：突袭攻击<EM4>[蓝图]</EM4>"
+      "tr": "红色级别合约：突袭攻击[蓝图]"
     },
     "RedWind_RecoverCargo_Hard_Title": {
       "en": "Red Wind Challenging Cargo Recovery",
@@ -2196,7 +2196,7 @@
     },
     "cfp_bombingrun_sabotage_generators_title_001": {
       "en": "Reduce Outlaw's Operational Readiness",
-      "tr": "减少不法分子的作战储备<EM4>[蓝图]</EM4>"
+      "tr": "减少不法分子的作战储备[蓝图]"
     },
     "Highpoint_KillAnimals_OneType_title": {
       "en": "Reduce Overpopulation",
@@ -2204,7 +2204,7 @@
     },
     "Highpoint_KillAnimals_rockcracker_title_E_001": {
       "en": "Reduce Valakkar Breaker Station Population",
-      "tr": "削减碎岩站的瓦拉卡种群数量\\n[高境荒野 - 击杀动物 LRT 碎岩站]<EM4>[蓝图]</EM4>"
+      "tr": "削减碎岩站的瓦拉卡种群数量\\n[高境荒野 - 击杀动物 LRT 碎岩站][蓝图]"
     },
     "CFP_ShipWaveAttack_ClearHostiles_Title_M_001": {
       "en": "Remove Upstart Gang From Sector",
@@ -2220,7 +2220,7 @@
     },
     "headhunters_eliminateall_outpost_title_01": {
       "en": "Reputation Management",
-      "tr": "声誉管理<EM4>[蓝图]</EM4>"
+      "tr": "声誉管理[蓝图]"
     },
     "EckhartSecurity_EliminateAll_storm_shut_H_title_001": {
       "en": "Requesting Help",
@@ -2232,7 +2232,7 @@
     },
     "cfp_defendship_multi_VHRT_title_001": {
       "en": "Respond to Distress Beacon",
-      "tr": "响应求救信标\\n[繁荣公民 - 保卫飞船 VHRT]<EM4>[蓝图]</EM4>"
+      "tr": "响应求救信标\\n[繁荣公民 - 保卫飞船 VHRT][蓝图]"
     },
     "Headhunters_DefendLocation_S_Title_001": {
       "en": "Restore Order at [LOCATION]",
@@ -2240,7 +2240,7 @@
     },
     "cfp_ChainElimAll_2C_ElimSpec_HHAttack_H_title_001": {
       "en": "Retaking Outposts from Headhunters",
-      "tr": "从猎头帮手中夺回前哨站<EM4>[蓝图]</EM4>"
+      "tr": "从猎头帮手中夺回前哨站[蓝图]"
     },
     "DeadSaints_RecoverCargo_Medium_Title": {
       "en": "Retrieval Op",
@@ -2248,7 +2248,7 @@
     },
     "Kaboos_Mission_Title": {
       "en": "Retrieve Additional Smuggler Intel",
-      "tr": "获取更多走私犯情报\\n[互安防务 - 调查剜度科技走私]<EM4>[蓝图]</EM4>"
+      "tr": "获取更多走私犯情报\\n[互安防务 - 调查剜度科技走私][蓝图]"
     },
     "TheCollector_Ships_Meteor_Title": {
       "en": "RSI Meteor Mod",
@@ -2320,7 +2320,7 @@
     },
     "eckhart_defendship_VLRT_title_001": {
       "en": "Save Ship",
-      "tr": "拯救飞船\\n[埃克哈特 - 保卫飞船 VLRT]<EM4>[蓝图]</EM4>"
+      "tr": "拯救飞船\\n[埃克哈特 - 保卫飞船 VLRT][蓝图]"
     },
     "Headhunters_SecurityPatrol_E_Title_001": {
       "en": "Scout and Scan",
@@ -2368,11 +2368,11 @@
     },
     "cfp_defendship_MRT_title_001": {
       "en": "Ship Needs Emergency Assistance",
-      "tr": "飞船需要紧急协助\\n[繁荣公民 - 保卫飞船 MRT]<EM4>[蓝图]</EM4>"
+      "tr": "飞船需要紧急协助\\n[繁荣公民 - 保卫飞船 MRT][蓝图]"
     },
     "headhunters_EliminateSpecific_CFP_E_title_001": {
       "en": "Shot in the chaos",
-      "tr": "混乱中的一击<EM4>[蓝图]</EM4>"
+      "tr": "混乱中的一击[蓝图]"
     },
     "Headhunters_EliminateAll_PAF_H_title_001": {
       "en": "Show Them Who's Boss",
@@ -2480,7 +2480,7 @@
     },
     "CFP_RecoverCargo_Super_Title": {
       "en": "Special Recovery Operation",
-      "tr": "特别回收行动\\n[繁荣公民 - 取回货物 ERT]<EM4>[蓝图]</EM4>"
+      "tr": "特别回收行动\\n[繁荣公民 - 取回货物 ERT][蓝图]"
     },
     "TheCollector_Ships_Spirit_C1_TItle": {
       "en": "Spirit Cargo mod",
@@ -2504,7 +2504,7 @@
     },
     "Foxwell_Mercenary_Rehire_title_001": {
       "en": "Still Looking for Work?",
-      "tr": "还在找工作？<EM4>[蓝图]</EM4>"
+      "tr": "还在找工作？[蓝图]"
     },
     "Headhunters_HaulCargo_AToB_PAF_title_01": {
       "en": "Stock Taking",
@@ -2516,11 +2516,11 @@
     },
     "eckhart_defendship_MRT_title_001": {
       "en": "Stop Attack on High-Profile Client",
-      "tr": "阻止对知名客户的攻击\\n[埃克哈特 - 保卫飞船 MRT]<EM4>[蓝图]</EM4>"
+      "tr": "阻止对知名客户的攻击\\n[埃克哈特 - 保卫飞船 MRT][蓝图]"
     },
     "eckhart_defendship_multi_VHRT_title_001": {
       "en": "Stop Deadly Ship Attack",
-      "tr": "阻止致命的飞船攻击\\n[埃克哈特 - 保卫飞船 VHRT]<EM4>[蓝图]</EM4>"
+      "tr": "阻止致命的飞船攻击\\n[埃克哈特 - 保卫飞船 VHRT][蓝图]"
     },
     "headhunters_bombingrun_sabotage_servers_VH_title_001": {
       "en": "Stop Rivals from Launching Heist",
@@ -2540,7 +2540,7 @@
     },
     "eckhart_defendship_LRT_title_001": {
       "en": "Support Client Under Attack",
-      "tr": "支援遭受袭击的客户\\n[埃克哈特 - 保卫飞船 LRT]<EM4>[蓝图]</EM4>"
+      "tr": "支援遭受袭击的客户\\n[埃克哈特 - 保卫飞船 LRT][蓝图]"
     },
     "HeadHunters_ShipAmbush_VE_title_001": {
       "en": "Surprise Party",
@@ -2552,11 +2552,11 @@
     },
     "Foxwell_EliminateAll_title_001": {
       "en": "Sweep and Clear Location",
-      "tr": "清扫地点<EM4>[蓝图]</EM4>"
+      "tr": "清扫地点[蓝图]"
     },
     "headhunters_ChainElimAll_2C_ElimSpec_AttackCFP_H_title_001": {
       "en": "Sweep and clear some CFP haunts",
-      "tr": "清理一些繁荣公民的聚集地<EM4>[蓝图]</EM4>"
+      "tr": "清理一些繁荣公民的聚集地[蓝图]"
     },
     "HeadHunters_ShipAmbush_VH_title_001": {
       "en": "Tactical Strike",
@@ -2568,11 +2568,11 @@
     },
     "cfp_sabotage_generators_M_title_001": {
       "en": "Take Outlaws at [LOCATION] Offline",
-      "tr": "让 [LOCATION] 的不法分子下线<EM4>[蓝图]</EM4>"
+      "tr": "让 [LOCATION] 的不法分子下线[蓝图]"
     },
     "cfp_ChainElimAll_1C_ElimSpec_HHAttack_M_title_001": {
       "en": "Taking back from the Headhunters",
-      "tr": "从猎头帮手里收回<EM4>[蓝图]</EM4>"
+      "tr": "从猎头帮手里收回[蓝图]"
     },
     "DeadSaints_RecoverCargo_Hard_Title": {
       "en": "Taking Back Our Goods",
@@ -2580,11 +2580,11 @@
     },
     "headhunters_ChainElimAll_3C_ElimSpec_AttackXT_VH_title_001": {
       "en": "Taking down a XenoThreat Hideout",
-      "tr": "摧毁一个异种威胁藏身处<EM4>[蓝图]</EM4>"
+      "tr": "摧毁一个异种威胁藏身处[蓝图]"
     },
     "headhunters_ChainElimAll_1C_AttackXT_M_title_001": {
       "en": "Taking out some XenoThreat trash",
-      "tr": "处理掉一些异种威胁的垃圾<EM4>[蓝图]</EM4>"
+      "tr": "处理掉一些异种威胁的垃圾[蓝图]"
     },
     "HeadHunters_RecoverCargo_Easy_Title": {
       "en": "Taking what’s ours",
@@ -2592,7 +2592,7 @@
     },
     "headhunters_ChainElimAll_2C_ElimSpec_AttackXT_H_title_001": {
       "en": "Taking XenoThreat Turf",
-      "tr": "夺取异种威胁的地盘<EM4>[蓝图]</EM4>"
+      "tr": "夺取异种威胁的地盘[蓝图]"
     },
     "headhunters_killship_asteroid_rank1_title_001": {
       "en": "Target at [LOCATION]",
@@ -2612,7 +2612,7 @@
     },
     "Intersec_KillShip_Title_Easy_001": {
       "en": "Terrorist [TARGET] to be Neutralized",
-      "tr": "恐怖分子 [TARGET] 该被消灭\\n[互安防务 - 击杀飞船 LRT]<EM4>[蓝图]</EM4>"
+      "tr": "恐怖分子 [TARGET] 该被消灭\\n[互安防务 - 击杀飞船 LRT][蓝图]"
     },
     "TheCollector_Recipes_Title_Battle": {
       "en": "Test Armor",
@@ -2620,11 +2620,11 @@
     },
     "vaughn_assassination_FPS_UGF_legal_title_001": {
       "en": "They Will Be Missed",
-      "tr": "溘然长逝<EM4>[蓝图]</EM4>"
+      "tr": "溘然长逝[蓝图]"
     },
     "headhunters_ChainElimAll_AttackCFP_E_title_001": {
       "en": "Time to roll on CFP",
-      "tr": "该让繁荣公民滚蛋了<EM4>[蓝图]</EM4>"
+      "tr": "该让繁荣公民滚蛋了[蓝图]"
     },
     "Eckhart_ShipAmbush_E_title": {
       "en": "Time to Teach a Lesson",
@@ -2636,7 +2636,7 @@
     },
     "Foxwell_EliminateSpecific_title_001": {
       "en": "Track Down [TARGET]",
-      "tr": "追捕 [TARGET]<EM4>[蓝图]</EM4>"
+      "tr": "追捕 [TARGET][蓝图]"
     },
     "BHG_Certification_Easy_Title": {
       "en": "Tracker Beginner's Permit Certification",
@@ -2676,7 +2676,7 @@
     },
     "headhunters_eliminateall_XT_derelicts_title_01": {
       "en": "Turf War",
-      "tr": "地盘之争<EM4>[蓝图]</EM4>"
+      "tr": "地盘之争[蓝图]"
     },
     "TheCollector_Conversion_Favors_Title": {
       "en": "Turn Things to Favor",
@@ -2708,19 +2708,19 @@
     },
     "bhg_bounty_title_ShatteredBlade_001": {
       "en": "Verified Bounty: [TARGET]",
-      "tr": "已验证赏金：[TARGET]\\n[碎刃帮赏金 HRT]<EM4>[蓝图]</EM4>"
+      "tr": "已验证赏金：[TARGET]\\n[碎刃帮赏金 HRT][蓝图]"
     },
     "bhg_bounty_title_ASD_Engineering_001": {
       "en": "Verified Bounty: [TARGET] at [LOCATION]",
-      "tr": "已验证赏金：位于 [LOCATION] 的 [TARGET]\\n[玛瑙设施赏金 - 工程翼楼]<EM4>[蓝图]</EM4>"
+      "tr": "已验证赏金：位于 [LOCATION] 的 [TARGET]\\n[玛瑙设施赏金 - 工程翼楼][蓝图]"
     },
     "bhg_bounty_title_ASD_Research_001": {
       "en": "Verified Bounty: [TARGET] at [LOCATION]",
-      "tr": "已验证赏金：位于 [LOCATION] 的 [TARGET]\\n[玛瑙设施赏金 - 研究翼楼]<EM4>[蓝图]</EM4>"
+      "tr": "已验证赏金：位于 [LOCATION] 的 [TARGET]\\n[玛瑙设施赏金 - 研究翼楼][蓝图]"
     },
     "bhg_bounty_title_Rockcracker_001": {
       "en": "Verified Bounty: [TARGET] at QV Breaker Station",
-      "tr": "已验证赏金：位于 QV 碎岩站的 [TARGET]<EM4>[蓝图]</EM4>"
+      "tr": "已验证赏金：位于 QV 碎岩站的 [TARGET][蓝图]"
     },
     "bhg_bounty_title_gen_001": {
       "en": "Verified Bounty: [TARGET] | Very Low-Risk Target (Single Seater Craft, Minimal Support)",
@@ -2752,7 +2752,7 @@
     },
     "RAIN_collectresources_multiple_OLP_name_01": {
       "en": "Vital Resources Needed For Research",
-      "tr": "研究需要关键资源<EM4>[蓝图]</EM4>"
+      "tr": "研究需要关键资源[蓝图]"
     },
     "headhunters_killship_gen_vlrt_rank0_title_001": {
       "en": "Wanna be a Headhunter?",
@@ -2772,7 +2772,7 @@
     },
     "headhunters_EliminateSpecific_XenoThreat_VH_title_001": {
       "en": "Wanted: [TARGET]",
-      "tr": "通缉：[TARGET]<EM4>[蓝图]</EM4>"
+      "tr": "通缉：[TARGET][蓝图]"
     },
     "headhunters_bombingrun_H_title_001": {
       "en": "Wasting Their Stockpile",
@@ -2816,7 +2816,7 @@
     },
     "headhunters_EliminateSpecific_XenoThreat_H_title_001": {
       "en": "XenoThreat Lieutenant needs some killing",
-      "tr": "异种威胁中尉需要被干掉<EM4>[蓝图]</EM4>"
+      "tr": "异种威胁中尉需要被干掉[蓝图]"
     },
     "Shubin_Industrial_HandMining_Pyro_Nyx_VH_Interstellar_Title_001": {
       "en": "XL Purchase Order: Hand Mined Materials",
@@ -2876,55 +2876,55 @@
     },
     "Foxwell_ShipAmbush_VE_title_001": {
       "en": "Yellow Level Contract: Ambush An Amateur",
-      "tr": "黄色级别合约：伏击一个外行<EM4>[蓝图]</EM4>"
+      "tr": "黄色级别合约：伏击一个外行[蓝图]"
     },
     "Foxwell_EliminateAll_PAF_M_title_001": {
       "en": "Yellow Level Contract: Clear Out PAF",
-      "tr": "黄色级别合约：清理平台校准设施<EM4>[蓝图]</EM4>"
+      "tr": "黄色级别合约：清理平台校准设施[蓝图]"
     },
     "Foxwell_ShipWaveAttack_ClearHostiles_Title_VE_001": {
       "en": "Yellow Level Contract: Clear Shipjacking Group",
-      "tr": "黄色级别合约：清除劫船团体\\n[福克斯韦尔 - 击杀飞船 VLRT 多波次]<EM4>[蓝图]</EM4>"
+      "tr": "黄色级别合约：清除劫船团体\\n[福克斯韦尔 - 击杀飞船 VLRT 多波次][蓝图]"
     },
     "Foxwell_DefendLocation_E_Title_001": {
       "en": "Yellow Level Contract: Defend [LOCATION]",
-      "tr": "黄色级别合约：保卫 [LOCATION]<EM4>[蓝图]</EM4>"
+      "tr": "黄色级别合约：保卫 [LOCATION][蓝图]"
     },
     "Foxwell_bombingrun_E_title_001": {
       "en": "Yellow Level Contract: Disrupt Operations",
-      "tr": "黄色级别合约：扰乱行动\\n[福克斯韦尔 - 轰炸 LRT]<EM4>[蓝图]</EM4>"
+      "tr": "黄色级别合约：扰乱行动\\n[福克斯韦尔 - 轰炸 LRT][蓝图]"
     },
     "Foxwell_bombingrun_VE_title_001": {
       "en": "Yellow Level Contract: Limiting Potential Threat",
-      "tr": "黄色级别合约：遏制潜在威胁\\n[福克斯韦尔 - 轰炸 VLRT]<EM4>[蓝图]</EM4>"
+      "tr": "黄色级别合约：遏制潜在威胁\\n[福克斯韦尔 - 轰炸 VLRT][蓝图]"
     },
     "Foxwell_EliminateAll_OLP_M_title_001": {
       "en": "Yellow Level Contract: Merc Work",
-      "tr": "黄色级别合约：雇佣兵工作<EM4>[蓝图]</EM4>"
+      "tr": "黄色级别合约：雇佣兵工作[蓝图]"
     },
     "Foxwell_ShipWaveAttack_ClearHostiles_Title_E_001": {
       "en": "Yellow Level Contract: Neutralize Shipjacking Gang",
-      "tr": "黄色级别合约：干掉劫船帮派\\n[福克斯韦尔 - 击杀飞船 LRT 多波次]<EM4>[蓝图]</EM4>"
+      "tr": "黄色级别合约：干掉劫船帮派\\n[福克斯韦尔 - 击杀飞船 LRT 多波次][蓝图]"
     },
     "Foxwell_SecurityPatrol_VE_Title_001": {
       "en": "Yellow Level Contract: Routine Patrol",
-      "tr": "黄色级别合约：例行巡逻<EM4>[蓝图]</EM4>"
+      "tr": "黄色级别合约：例行巡逻[蓝图]"
     },
     "Foxwell_SecurityPatrol_E_Title_001": {
       "en": "Yellow Level Contract: Security Sweep",
-      "tr": "黄色级别合约：安全扫查<EM4>[蓝图]</EM4>"
+      "tr": "黄色级别合约：安全扫查[蓝图]"
     },
     "foxwell_DefendShip_E_title_001": {
       "en": "Yellow Level Contract: Ship Under Attack",
-      "tr": "黄色级别合约：飞船遭到攻击<EM4>[蓝图]</EM4>"
+      "tr": "黄色级别合约：飞船遭到攻击[蓝图]"
     },
     "Foxwell_DefendLocation_VE_Title_001": {
       "en": "Yellow Level Contract: Stand Up to Aggressors",
-      "tr": "黄色级别合约：抵抗侵略者<EM4>[蓝图]</EM4>"
+      "tr": "黄色级别合约：抵抗侵略者[蓝图]"
     },
     "Foxwell_ShipAmbush_E_title_001": {
       "en": "Yellow Level Contract: Surprise Strike",
-      "tr": "黄色级别合约：突袭打击<EM4>[蓝图]</EM4>"
+      "tr": "黄色级别合约：突袭打击[蓝图]"
     },
     "TheCollector_Recipes_Title_SlimyLMG": {
       "en": "Yormandi Gun",
